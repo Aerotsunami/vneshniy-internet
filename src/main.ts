@@ -385,6 +385,10 @@ function render() {
           </button>
         </header>
 
+        <nav class="mobile-archive-strip" aria-label="Выпуски архива">
+          ${archive.issues.map(archiveButton).join("")}
+        </nav>
+
         <div class="topic-strip" aria-label="Темы">
           ${["Все", ...archive.topics].map(topicButton).join("")}
         </div>

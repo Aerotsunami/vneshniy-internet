@@ -31,8 +31,8 @@ function validateIssue(file, issue) {
     fail(file, `"date" must use YYYY-MM-DD`);
   }
 
-  if (!Array.isArray(issue.materials) || issue.materials.length < 1 || issue.materials.length > 5) {
-    fail(file, `"materials" must contain 1 to 5 items`);
+  if (!Array.isArray(issue.materials) || issue.materials.length < 1 || issue.materials.length > 10) {
+    fail(file, `"materials" must contain 1 to 10 items`);
   }
 
   const ids = new Set();

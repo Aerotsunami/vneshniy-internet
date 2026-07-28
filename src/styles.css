@@ -246,6 +246,10 @@ svg {
   font-weight: 700;
 }
 
+.mobile-archive-strip {
+  display: none;
+}
+
 .archive-date small {
   min-width: 24px;
   color: #8f8a80;
@@ -839,8 +843,41 @@ main {
     font-size: 9px;
   }
 
-  .topic-strip {
+  .mobile-archive-strip {
+    position: sticky;
+    z-index: 18;
     top: 64px;
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 8px 16px;
+    border-bottom: 1px solid var(--line);
+    background: var(--paper);
+    scrollbar-width: none;
+  }
+
+  .mobile-archive-strip::-webkit-scrollbar {
+    display: none;
+  }
+
+  .mobile-archive-strip .archive-date {
+    width: auto;
+    min-width: max-content;
+    gap: 8px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 5px;
+  }
+
+  .mobile-archive-strip .archive-date small {
+    min-width: 18px;
+    height: 18px;
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  .topic-strip {
+    top: 115px;
     padding: 10px 16px;
   }
 
@@ -869,7 +906,7 @@ main {
   }
 
   .material {
-    scroll-margin-top: 128px;
+    scroll-margin-top: 179px;
     padding: 36px 0 40px;
   }
 
