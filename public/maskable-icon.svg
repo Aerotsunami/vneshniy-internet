@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Внешний интернет</title>
+  <rect width="512" height="512" fill="#171715"/>
+  <path d="M112 120h288v54H112z" fill="#f3f0e8"/>
+  <path d="M112 212h210v54H112z" fill="#f3f0e8"/>
+  <path d="M112 304h170v54H112z" fill="#f3f0e8"/>
+  <path d="M334 212h66v188l-33-24-33 24z" fill="#e7462e"/>
+  <circle cx="367" cy="147" r="17" fill="#f0c94b"/>
+</svg>

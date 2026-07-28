@@ -1,0 +1,22 @@
+{
+  "name": "vneshniy-internet",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "content:build": "node scripts/build-content.mjs",
+    "content:check": "node scripts/build-content.mjs --check",
+    "dev": "npm run content:build && vite",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run content:build && tsc --noEmit && vite build && node scripts/inject-service-worker.mjs",
+    "check": "npm run content:check && npm run typecheck && npm run build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide": "^0.468.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}
