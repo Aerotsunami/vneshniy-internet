@@ -51,14 +51,13 @@ self.addEventListener("fetch", (event) => {
   if (url.pathname.endsWith("/archive.json")) {
     event.respondWith(
       caches.open(CACHE_VERSION).then(async (cache) => {
-        const cached = await cache.match(event.request);
-        const fresh = fetch(event.request)
-          .then((response) => {
-            if (response.ok) cache.put(event.request, response.clone());
-            return response;
-          })
-          .catch(() => cached);
-        return cached ?? fresh;
+        try {
+          const response = await fetch(event.request);
+          if (response.ok) await cache.put(event.request, response.clone());
+          return response;
+        } catch {
+          return (await cache.match(event.request)) ?? Response.error();
+        }
       })
     );
     return;
