@@ -69,8 +69,30 @@ jobs:
 
       - name: Validate issue and application
         if: steps.issue.outputs.exists == 'false'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
         run: |
-          node scripts/daily-issue.mjs validate
+          validation_log=/tmp/issue-validation.log
+          for repair_attempt in 0 1 2; do
+            if node scripts/daily-issue.mjs validate >"$validation_log" 2>&1; then
+              cat "$validation_log"
+              break
+            fi
+
+            cat "$validation_log" >&2
+            if [[ "$repair_attempt" -eq 2 ]]; then
+              echo "Issue validation still fails after two repair attempts." >&2
+              exit 1
+            fi
+
+            repair_prompt="The existing content/issues/$ISSUE_DATE.json failed validation. Read the file and .daily-news-candidates.json, then fix only the issue JSON. Do not use the network or shell. Validation error: $(cat "$validation_log")"
+            copilot -p "$repair_prompt" -s \
+              --available-tools='view,grep,glob,apply_patch,create,edit' \
+              --allow-tool="read, write(content/issues/$ISSUE_DATE.json)" \
+              --no-ask-user
+          done
+
           npm ci
           npm run check
 
