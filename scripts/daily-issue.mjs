@@ -148,8 +148,16 @@ async function validate() {
     expect(typeof material.title === "string" && material.title.length > 0, `${material.id}: title is required`);
     expect(typeof material.topic === "string" && material.topic.length > 0, `${material.id}: topic is required`);
     expect(typeof material.isAi === "boolean", `${material.id}: isAi must be boolean`);
-    if (material.isAi) aiCount += 1;
     expect(Array.isArray(material.body) && material.body.length >= 3 && material.body.length <= 6, `${material.id}: body must contain 3 to 6 paragraphs`);
+
+    const aiIdentity = `${material.title} ${material.topic}`;
+    const looksAiOnly = material.topic.toLowerCase() === "ai" || /\\b(?:chatgpt|gemini|claude|openai|hunyuan)\\b/i.test(aiIdentity);
+    expect(!looksAiOnly || material.isAi, `${material.id}: AI-only material must set isAi to true`);
+    if (material.isAi) aiCount += 1;
+
+    const editorialLead = `${material.title} ${material.body[0]}`;
+    const looksLikeFundraising = /\\b(?:funding|fundraising|investment round|raised \\$)\\b|(?:привл[её]к|раунд финансирования|инвестиц)/i.test(editorialLead);
+    expect(!looksLikeFundraising, `${material.id}: pure fundraising stories are not allowed`);
     expect(Array.isArray(material.check), `${material.id}: check must be an array`);
     expect(Array.isArray(material.sources) && material.sources.length >= 1 && material.sources.length <= 3, `${material.id}: sources must contain 1 to 3 entries`);
     for (const source of material.sources) {
