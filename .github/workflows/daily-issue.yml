@@ -1,0 +1,115 @@
+name: Publish daily issue
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/daily-issue.yml"
+      - ".github/prompts/daily-issue.md"
+      - "scripts/daily-issue.mjs"
+
+permissions:
+  actions: write
+  contents: write
+  copilot-requests: write
+
+concurrency:
+  group: daily-issue
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Resolve issue date
+        id: issue
+        run: |
+          issue_date="$(node scripts/daily-issue.mjs date)"
+          echo "date=$issue_date" >> "$GITHUB_OUTPUT"
+          if [[ -f "content/issues/$issue_date.json" ]]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Collect fresh candidates
+        if: steps.issue.outputs.exists == 'false'
+        run: node scripts/daily-issue.mjs collect
+
+      - name: Install Copilot CLI
+        if: steps.issue.outputs.exists == 'false'
+        run: npm install --global @github/copilot@latest
+
+      - name: Generate issue
+        if: steps.issue.outputs.exists == 'false'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: |
+          prompt="$(sed "s/{{ISSUE_DATE}}/$ISSUE_DATE/g" .github/prompts/daily-issue.md)"
+          copilot -p "$prompt" -s \
+            --available-tools='view,grep,glob,apply_patch,create,edit' \
+            --allow-tool="read, write(content/issues/$ISSUE_DATE.json)" \
+            --no-ask-user
+
+      - name: Validate issue and application
+        if: steps.issue.outputs.exists == 'false'
+        run: |
+          node scripts/daily-issue.mjs validate
+          npm ci
+          npm run check
+
+      - name: Commit issue
+        if: steps.issue.outputs.exists == 'false'
+        env:
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "content/issues/$ISSUE_DATE.json"
+          git commit -m "Add issue for $ISSUE_DATE"
+          git push origin HEAD:main
+
+      - name: Deploy Pages
+        if: steps.issue.outputs.exists == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main
+
+      - name: Verify public archive
+        if: steps.issue.outputs.exists == 'false'
+        env:
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: |
+          for attempt in {1..40}; do
+            if curl --fail --silent --show-error \
+              "https://aerotsunami.github.io/vneshniy-internet/archive.json?attempt=$attempt" \
+              --output /tmp/archive.json; then
+              if node -e '
+                const archive = require("/tmp/archive.json");
+                const issue = archive.issues.find((entry) => entry.date === process.env.ISSUE_DATE);
+                if (!issue) process.exit(1);
+                console.log(`Published ${issue.date} with ${issue.materials.length} materials.`);
+              '; then
+                exit 0
+              fi
+            fi
+            sleep 15
+          done
+          echo "Pages did not publish $ISSUE_DATE within 10 minutes." >&2
+          exit 1
