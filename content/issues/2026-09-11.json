@@ -1,0 +1,145 @@
+{
+  "date": "2026-09-11",
+  "label": "Свежий выпуск",
+  "summary": "Новые инструменты для Linux и разработки, устройства для съёмки и практические сервисы показывают, как технологии меняют повседневную работу.",
+  "materials": [
+    {
+      "id": "insta360-luna-pro",
+      "title": "Insta360 выпустила компактную камеру Luna Pro",
+      "topic": "Камеры и устройства",
+      "isAi": false,
+      "body": [
+        "Insta360 представила компактную steadycam-камеру Luna Pro, которая стала более простой версией выпущенной ранее Luna Ultra.",
+        "У новой модели только один объектив. При этом она умеет снимать вертикальное видео в 4K.",
+        "Luna Pro уже доступна в США. Так Insta360 конкурирует с DJI Osmo Pocket 4 не только характеристиками, но и фактическим присутствием на американском рынке."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "digital-research-gem-linux",
+      "title": "Digital Research показала новый способ открыть окно в Linux",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Digital Research представила GEM как новый подход к работе с Linux.",
+        "Проект описывают как радикальный способ разобраться с противостоянием X11 и Wayland.",
+        "Вместо подробного набора функций публикация подчёркивает саму архитектурную идею GEM: открыть новое окно для Linux и предложить альтернативный путь развития графической среды."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-rust-tier-one",
+      "title": "Microsoft объявила Rust внутренним языком первого уровня",
+      "topic": "Разработка и безопасность",
+      "isAi": false,
+      "body": [
+        "Microsoft назначила Rust своим внутренним языком уровня Tier 1.",
+        "Для разработчиков компании это означает официальный приоритет инструмента внутри экосистемы Microsoft, а не просто экспериментальное использование языка.",
+        "Практическая цель связана с Windows: Rust должен помочь программистам устранять ошибки управления памятью."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "android-password-manager-migration",
+      "title": "Android упростил перенос логинов между менеджерами паролей",
+      "topic": "Безопасность и мобильные устройства",
+      "isAi": false,
+      "body": [
+        "Android теперь поддерживает безопасный перенос логинов между менеджерами паролей.",
+        "Нововведение решает практическую проблему пользователей, которые меняют приложение для хранения учётных данных.",
+        "Пока поддержка со стороны приложений остаётся ограниченной. Google заявляет, что в будущем к функции присоединятся новые менеджеры."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+          "date": "2026-09-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "proxima-fusion-hts-factory",
+      "title": "Proxima Fusion построит фабрику сверхпроводящей ленты",
+      "topic": "Энергетика и стартапы",
+      "isAi": false,
+      "body": [
+        "Стартап Proxima Fusion планирует построить фабрику стоимостью 140 миллионов евро.",
+        "Предприятие будет выпускать высокотемпературную сверхпроводящую ленту HTS для термоядерного синтеза.",
+        "Для компании это не просто финансовая новость: лента должна стать важным компонентом собственной конструкции реактора. Производство также отвечает на зависимость отрасли от поставщиков из Азии."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+          "date": "2026-09-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "openai-gpt-live-api",
+      "title": "OpenAI выпустила GPT-Live-1 для разговоров в API",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "OpenAI представила GPT-Live-1 в API и открыла разработчикам инструмент для разговоров с AI.",
+        "Модель может одновременно говорить и слушать, поэтому взаимодействие с ней должно быть более плавным.",
+        "Запуск ориентирован именно на разработчиков: GPT-Live-1 становится строительным блоком для приложений с двусторонним голосовым общением."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
+          "date": "2026-09-10"
+        },
+        {
+          "label": "Hacker News",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "slackforce-surfaces",
+      "title": "Slack научился собирать интерактивные отчёты прямо в чатах",
+      "topic": "Корпоративные инструменты",
+      "isAi": true,
+      "body": [
+        "Slack представил Slackforce Surfaces — функцию для создания интерактивных инструментов прямо внутри чата.",
+        "Пользователь может описать Slackbot нужный результат, а система соберёт сведения из переписок и подключённых сервисов, включая Google Drive и Salesforce.",
+        "В перечень сценариев входят отчёты, опросы, панели, презентации и микросайты. AI здесь превращает корпоративный чат из места обсуждений в среду для сборки рабочих материалов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "date": "2026-09-10"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
