@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-12",
+  "label": "Свежий выпуск",
+  "summary": "Новые AI-модели, обновления приложений, инструменты для игр и практичные устройства задают технологическую повестку дня.",
+  "materials": [
+    {
+      "id": "simpledesign-protein-model",
+      "title": "Apple показала AI-модель для дизайна белков",
+      "topic": "Искусственный интеллект и биотехнологии",
+      "isAi": true,
+      "body": [
+        "Исследователи Apple представили SimpleDesign — новую AI-модель для дизайна белков.",
+        "В основе проекта лежит исследование, описывающее упрощённую модель.",
+        "SimpleDesign умеет совместно генерировать белковые последовательности и структуры."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
+          "date": "2026-09-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "whatsapp-ipad-sidebar",
+      "title": "WhatsApp обновляет интерфейс для iPad",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "WhatsApp расширяет доступ к переработанному интерфейсу приложения для iPad.",
+        "В новой версии появилась боковая панель, стилизованная под интерфейс Mac.",
+        "Изменение последовало за несколькими месяцами бета-тестирования Liquid Glass."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "roblox-ai-cross-platform",
+      "title": "Roblox упростит создание игр и их запуск вне платформы",
+      "topic": "Игры и искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "На конференции Roblox Developer Conference компания представила новые инструменты для создания игр.",
+        "В набор обновлений вошли AI-инструменты для разработки игр и расширенные возможности NPC.",
+        "Roblox также объявила о возможности делать игры доступными на разных платформах, включая веб."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "jfrog-artifactory-patches",
+      "title": "Три ошибки JFrog Artifactory атакуют, но для них есть патчи",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Новые ошибки в JFrog Artifactory уже используются в атаках.",
+        "Для всех трёх ошибок компания выпустила исправления.",
+        "Публикация указывает обновление до исправленной версии как повод не откладывать переход."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "shelly-flood-s-gen4",
+      "title": "Shelly выпустила недорогой датчик протечки для Apple Home",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Shelly представила Flood S Gen4 — датчик протечки для умного дома Apple.",
+        "Устройство сертифицировано по Matter и работает с Apple Home сразу после подключения.",
+        "Цена датчика ниже 30 долларов, что делает его доступным способом добавить контроль протечек."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/11/homekit-weekly-shellys-flood-s-gen4-is-a-low-cost-matter-leak-sensor-for-apple-home/",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "dockfix-macos-dock",
+      "title": "DockFix 5.0 предлагает заменить Dock в macOS",
+      "topic": "Программное обеспечение",
+      "isAi": false,
+      "body": [
+        "В Product Hunt появился DockFix 5.0 — инструмент для macOS.",
+        "Сервис предлагает заменить системный Dock альтернативным вариантом.",
+        "Главная идея релиза — сделать Dock более настраиваемым под пользователя."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/dockfix",
+          "date": "2026-09-11"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
