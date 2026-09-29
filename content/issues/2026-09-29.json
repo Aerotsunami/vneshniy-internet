@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-29",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — редизайн Firefox, новые камеры и наушники, срочные исправления для Apple и Firebase, а также два AI-сервиса.",
+  "materials": [
+    {
+      "id": "apple-ios26-security-fix",
+      "title": "Apple выпустила исправление после атак на пользователей iOS 26",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Apple выпустила срочное обновление безопасности для iPhone, iPad и Mac.",
+        "Компания сообщила, что уязвимость использовали в атаках на отдельных людей, работавших под iOS 26.",
+        "По данным TechCrunch, эту версию системы всё ещё использует большинство клиентов Apple."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "firebase-ios-app-crash",
+      "title": "Google исправила сбой Firebase, валивший приложения на iPhone",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Неполадка в Firebase привела к сбоям в тысячах приложений для iPhone.",
+        "Проблема возникла ночью и затронула приложения, использующие сервис Google.",
+        "Google уже применила исправление."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "firefox-157-redesign",
+      "title": "Firefox получил округлённые вкладки, новые темы и компактный режим",
+      "topic": "Браузеры",
+      "isAi": false,
+      "body": [
+        "Обновление Firefox меняет внешний вид браузера на компьютерах и мобильных устройствах.",
+        "Вкладки и адресная строка стали более округлыми, а палитра, значки и темы получили обновление.",
+        "Для настольной версии также появился компактный режим."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fairphone-fairbuds-2",
+      "title": "Fairphone покажет ремонтопригодные наушники Fairbuds 2 в октябре",
+      "topic": "Аудиотехника",
+      "isAi": false,
+      "body": [
+        "Fairphone готовит Fairbuds 2 — продолжение линейки ремонтопригодных беспроводных наушников.",
+        "Это первая новая модель Fairbuds более чем за два года.",
+        "Полную презентацию компания запланировала на 14 октября."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "polaroid-mod-camera",
+      "title": "Polaroid Mod добавляет четыре творческих режима моментальной съёмки",
+      "topic": "Фото и видео",
+      "isAi": false,
+      "body": [
+        "Polaroid представила Mod — новую моментальную камеру с настройками для экспериментальной съёмки.",
+        "Колесо на передней панели регулирует экспозицию, а переключатель вокруг объектива выбирает один из четырёх творческих режимов.",
+        "Так фотографам предлагают управлять не только диафрагмой и выдержкой."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "dazzle-photo-assistant",
+      "title": "Марисса Майер представила AI-помощника Dazzle для работы с фотографиями",
+      "topic": "ИИ и персональные сервисы",
+      "isAi": true,
+      "body": [
+        "Бывшая глава Yahoo Марисса Майер представила Dazzle — персонального AI-помощника, основанного на фотографиях пользователя.",
+        "Вместо почтового ящика сервис обращается к фотоплёнке как к источнику сведений о жизни человека.",
+        "Идея продукта строится на том, что снимки могут рассказать о повседневности больше, чем переписка."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "booking-lola-travel-agent",
+      "title": "Booking.com запустила AI-агента для бронирования поездок и досуга",
+      "topic": "ИИ и путешествия",
+      "isAi": true,
+      "body": [
+        "Новый AI-агент Booking.com под названием Lola умеет бронировать поездки.",
+        "Среди других сценариев — покупка билетов на концерты и бронирование ресторанов.",
+        "Так сервис объединяет планирование путешествия с некоторыми делами и развлечениями вокруг него."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2271730/lola-is-bookingcoms-new-ai-travel-agent/",
+          "date": "2026-09-29"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
