@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-30",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые родительские настройки WhatsApp, обновлённый Fire TV Stick, дрон Wing, трекер Samsung, квантово-устойчивые сертификаты Cloudflare и социальный режим Tinder.",
+  "materials": [
+    {
+      "id": "whatsapp-teen-parental-controls",
+      "title": "WhatsApp добавил родительские настройки для подростковых аккаунтов",
+      "topic": "Мессенджеры и безопасность",
+      "isAi": false,
+      "body": [
+        "WhatsApp добавил новые родительские настройки для аккаунтов подростков.",
+        "Родители смогут ограничивать использование каналов и определять, чьи статусы видит подросток.",
+        "Также можно контролировать, кто видит статусы подростка и кто может добавлять его в группы."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-fire-tv-stick-4k-remote",
+      "title": "Amazon обновила Fire TV Stick 4K и его пульт",
+      "topic": "Домашние устройства",
+      "isAi": false,
+      "body": [
+        "Новый Fire TV Stick 4K стал тоньше и быстрее предыдущей модели.",
+        "Главным изменением может оказаться переработанный пульт, которым удобнее пользоваться в темноте.",
+        "Устройство также можно запитать напрямую от USB-порта телевизора, без отдельного адаптера питания."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+          "date": "2026-09-30"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "wing-hummingbird-7000w-delivery-drone",
+      "title": "Wing показала лёгкий дрон для доставки на шесть миль",
+      "topic": "Дроны и доставка",
+      "isAi": false,
+      "body": [
+        "Доставочный дрон Wing Hummingbird 7000W-B весит менее 15 фунтов и рассчитан на груз до 2,7 фунта.",
+        "У него 16 пропеллеров: четыре отвечают за горизонтальное движение, а 12 — за вертикальное.",
+        "Дрон развивает скорость до 60 миль в час, летает примерно на шесть миль и получил разрешение FAA."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "samsung-galaxy-smarttag-3",
+      "title": "Samsung представила меньший Galaxy SmartTag 3 с поддержкой iPhone",
+      "topic": "Носимая электроника",
+      "isAi": false,
+      "body": [
+        "Samsung представила третье поколение Bluetooth-трекера Galaxy SmartTag.",
+        "Устройство стало меньше, получило более долгую работу от батареи и новые функции отслеживания.",
+        "Поддержка разных операционных систем должна упростить обмен данными о местоположении с друзьями и семьёй."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
+          "date": "2026-09-30"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "cloudflare-quantum-safe-tls",
+      "title": "Cloudflare планирует выпускать квантово-устойчивые TLS-сертификаты",
+      "topic": "Интернет и безопасность",
+      "isAi": false,
+      "body": [
+        "Cloudflare планирует начать выпуск квантово-устойчивых TLS-сертификатов.",
+        "Компания связывает этот шаг с крупной перестройкой экосистемы аутентификации сайтов.",
+        "Такие сертификаты должны стать частью подхода Cloudflare к защите веб-соединений от будущих квантовых угроз."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tinder-group-hangouts",
+      "title": "Tinder запустил групповые встречи для более социальных знакомств",
+      "topic": "Социальные сервисы",
+      "isAi": false,
+      "body": [
+        "Tinder объявил о запуске функции Group Hangouts.",
+        "Она позволяет группам друзей знакомиться и проводить время вместе.",
+        "Сервис таким образом пытается сделать знакомства более социальными и привязанными к встречам в реальной жизни."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-pay-axis-bank-india",
+      "title": "Apple Pay начал работать в Индии с картами Axis Bank",
+      "topic": "Платежи и сервисы",
+      "isAi": false,
+      "body": [
+        "Apple Pay начал развёртывание в Индии после многолетнего ожидания.",
+        "На старте сервис поддерживает выпущенные Axis Bank карты Visa и Mastercard.",
+        "Запуск пока ограничен картами этого банка, поэтому доступен не всем клиентам индийских банков."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2272991/apple-pay-arrives-india/",
+          "date": "2026-09-30"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
