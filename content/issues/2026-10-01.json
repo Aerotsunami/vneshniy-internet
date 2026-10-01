@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-01",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — атаки на Zimbra, обновление Kindle, ноутбук HP, отказ от EWS, сбой Azure, новая камера Fujifilm и агенты Photon для мессенджеров.",
+  "materials": [
+    {
+      "id": "zimbra-mail-server-exploit",
+      "title": "Microsoft обнаружила атаки на уязвимость Zimbra до её раскрытия",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Microsoft обнаружила злоумышленников, пытавшихся использовать уязвимость почтового сервера Zimbra.",
+        "По данным The Register, они прощупывали этот дефект за несколько недель до появления CVE.",
+        "К моменту первых попыток атак уязвимость ещё не получила идентификатор CVE."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543",
+          "date": "2026-10-01"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-kindle-refresh-click",
+      "title": "Amazon обновила Kindle и выпустила пульт для листания страниц",
+      "topic": "Читалки и аксессуары",
+      "isAi": false,
+      "body": [
+        "Amazon обновила базовую модель Kindle, Paperwhite и Colorsoft: устройства стали тоньше, а книги открываются на 30% быстрее.",
+        "У новых моделей плоские дисплеи, а линейка получила новые цвета.",
+        "Вместе с читалками компания выпустила Kindle Click — Bluetooth-пульт за 35 долларов, который позволяет листать страницы, не касаясь устройства."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+          "date": "2026-10-01"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026/",
+          "date": "2026-10-01"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+          "date": "2026-10-01"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "photon-messaging-agents",
+      "title": "Photon предлагает создавать AI-агентов для мессенджеров",
+      "topic": "ИИ и разработка",
+      "isAi": true,
+      "body": [
+        "Стартап Photon помогает разработчикам создавать AI-агентов, которые взаимодействуют с пользователями через привычные каналы связи.",
+        "Среди поддерживаемых каналов — iMessage, SMS/RCS и электронная почта.",
+        "Компания рассчитывает, что люди будут обращаться к агентам через эти сервисы вместо установки отдельных приложений."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+          "date": "2026-10-01"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "hp-omnibook-5-14",
+      "title": "HP выпустила 14-дюймовый OmniBook 5 с OLED-экраном",
+      "topic": "Компьютеры",
+      "isAi": false,
+      "body": [
+        "HP представила OmniBook 5 14 — ноутбук, который компания позиционирует как конкурента MacBook Neo.",
+        "Устройство получило OLED-экран, а стартовая цена составляет 699 долларов.",
+        "В базовой конфигурации — процессор Intel Core 5 315, 8 ГБ оперативной памяти и SSD на 256 ГБ."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "date": "2026-10-01"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2273550/hps-omnibook-5-features-an-oled-screen-and-costs-dollar699/",
+          "date": "2026-10-01"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "exchange-web-services-retirement",
+      "title": "Microsoft начала отключать Exchange Web Services",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Microsoft начала выводить из эксплуатации Exchange Web Services — старый API для Exchange.",
+        "Доступ к нему начинает исчезать из клиентских сред уже сегодня.",
+        "После апреля исключений не будет."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/saas/2026/10/01/exchange-web-services-enters-the-final-stretch-before-microsoft-pulls-access/5300458",
+          "date": "2026-10-01"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "azure-maintenance-disruption",
+      "title": "Работы в Azure нарушили работу VPN и гибридных облаков",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Обслуживание Azure привело к сбоям в гибридных облаках, VPN и облачных сервисах VMware.",
+        "О проблемах сообщило издание The Register.",
+        "Microsoft пока не установила, что именно пошло не так."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupted-hybrid-clouds-vpns-cloudy-vmware-services/5300333",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fujifilm-instax-pal-2",
+      "title": "Instax Pal 2 подключается к смартфону для передачи снимков",
+      "topic": "Фото и видео",
+      "isAi": false,
+      "body": [
+        "Instax Pal 2 — компактная цифровая камера Fujifilm.",
+        "Её можно подключить напрямую к смартфону, чтобы передать изображения.",
+        "В камере сочетаются программные фильтры и физические элементы управления."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
+          "date": "2026-09-30"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
