@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-02",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — аварийная функция Tesla, уязвимость FortiMail, пауза в разработке Epic и обновления Home Assistant, Suno, Excel и Фото.",
+  "materials": [
+    {
+      "id": "fortimail-zero-day",
+      "title": "Уязвимость FortiMail уже используют в атаках",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Fortinet предупредила об активно используемой уязвимости нулевого дня в FortiMail.",
+        "Для эксплуатации не требуется вход в систему.",
+        "По данным The Register, атаки уже идут, а некоторые администраторы всё ещё ждут исправления."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tesla-emergency-drive-away",
+      "title": "Tesla добавила аварийную функцию отъезда с подключённым Supercharger",
+      "topic": "Электромобили",
+      "isAi": false,
+      "body": [
+        "Новая функция Tesla позволяет уехать, не отсоединяя кабель Supercharger.",
+        "Компания предусмотрела её для экстренных ситуаций.",
+        "О функции сообщили после стрельбы на станции Supercharger."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "home-assistant-link",
+      "title": "Home Assistant Cloud переименуют в Home Assistant Link",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Открытая платформа умного дома Home Assistant меняет название своего облачного сервиса.",
+        "Вместо Home Assistant Cloud он будет называться Home Assistant Link.",
+        "Основатель Paulus Schoutsen объяснил решение критикой облачных сервисов крупных технологических компаний."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "epic-security-pause",
+      "title": "Epic приостановит разработку продуктов ради исправления уязвимостей",
+      "topic": "Медицинские технологии",
+      "isAi": false,
+      "body": [
+        "Разработчик медицинской системы MyChart временно остановит работу над новыми продуктами.",
+        "В ближайшие несколько недель Epic сосредоточится на устранении ошибок безопасности.",
+        "По данным TechCrunch, эти ошибки создают риск для данных пациентов."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "suno-speech-beta",
+      "title": "Suno добавила генерацию речи по сценарию или описанию",
+      "topic": "ИИ и аудио",
+      "isAi": true,
+      "body": [
+        "Suno запустила функцию Speech для генерации речи по сценарию или текстовому описанию.",
+        "Она доступна в публичной бета-версии на сайте и в мобильных приложениях.",
+        "Сервис может одновременно создать озвучку и фоновую музыку к ней."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "excel-canvas-reports",
+      "title": "Excel Canvas превращает данные таблицы в обновляемые отчёты",
+      "topic": "Офисные программы",
+      "isAi": true,
+      "body": [
+        "Copilot в Excel Canvas строит графики и рассчитывает показатели на основе данных таблицы.",
+        "Когда исходные числа меняются, графики и показатели обновляются автоматически.",
+        "The Register описывает Canvas как способ превратить книгу Excel в готовый отчёт."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/software/2026/10/02/excel-canvas-offers-to-turn-your-workbook-into-the-bosss-next-report/5300812",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ios-photos-slideshows",
+      "title": "В iOS 27 появятся слайд-шоу и обновлённые общие альбомы Фото",
+      "topic": "Мобильные устройства",
+      "isAi": false,
+      "body": [
+        "В iOS 27 приложение Apple Фото получит новые возможности.",
+        "Пользователи смогут создавать полноценные слайд-шоу.",
+        "Также Apple обновит общие альбомы iCloud."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
