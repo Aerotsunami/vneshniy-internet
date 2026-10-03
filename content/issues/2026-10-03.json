@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-03",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые ограничения доступа к диску macOS, открытый код для гаджетов с Muse, адаптер беспроводного CarPlay и квартальные результаты Rivian.",
+  "materials": [
+    {
+      "id": "macos-full-disk-access-controls",
+      "title": "Apple ужесточит контроль доступа приложений к данным Mac",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Apple добавит новые ограничения для разрешения Full Disk Access в macOS.",
+        "Компания предупреждает, что ИИ-агенты с широким доступом могут затрагивать файлы, сообщения, почту и историю браузера.",
+        "По словам Apple, новые меры должны помочь пользователям осознаннее выдавать приложениям такой доступ."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-muse-open-gadgets",
+      "title": "Meta открыла код для создания гаджетов с ИИ-агентом Muse",
+      "topic": "ИИ и устройства",
+      "isAi": true,
+      "body": [
+        "Meta опубликовала открытый код, с которым можно создавать собственные устройства на базе ИИ-агента Muse.",
+        "Компания предлагает, например, вывести Muse на цветной экран E Ink для показа напоминаний или подключить его к HDMI-устройству.",
+        "Такой набор позволяет разработчикам экспериментировать с Muse за пределами готовых продуктов Meta."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+          "date": "2026-10-02"
+        },
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/muse-22",
+          "date": "2026-10-03"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "airfly-drive-wireless-carplay",
+      "title": "Twelve South выпустила адаптер для беспроводного CarPlay",
+      "topic": "Автомобильные технологии",
+      "isAi": false,
+      "body": [
+        "Airfly Drive превращает проводное подключение CarPlay в беспроводное.",
+        "Адаптер Twelve South поступил в продажу по цене 39,99 доллара.",
+        "Устройство доступно для заказа с момента анонса."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "rivian-q3-production-deliveries",
+      "title": "Rivian отчиталась о росте производства и поставок в третьем квартале",
+      "topic": "Электромобили",
+      "isAi": false,
+      "body": [
+        "За третий квартал Rivian произвела 19 751 автомобиль и поставила покупателям 19 248.",
+        "Производство выросло на 85% год к году, а поставки — на 45%.",
+        "Рост поставок пришёлся на фоне ставки Rivian на более доступный электромобиль R2."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+          "date": "2026-10-02"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
