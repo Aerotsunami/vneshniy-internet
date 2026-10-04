@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-04",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — операция против KillSec, ограничения Bitchat в Индии, планы Capcom по ИИ, электрический паром Vessev и новые устройства и приложения.",
+  "materials": [
+    {
+      "id": "killsec-server-seizure",
+      "title": "Правоохранители изъяли серверы и сайт утечек KillSec",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Europol сообщает об операции против вымогательской группы KillSec: правоохранители изъяли её серверы и сайт утечек.",
+        "В сообщении говорится, что подозреваемый в руководстве группой — подросток.",
+        "Речь идёт о подозрении, а не об установленном факте его лидерства."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://www.europol.europa.eu/media-press/newsroom/news/teenager-suspected-of-leading-killsec-ransomware-group-law-enforcement-seizes-servers-and-leak-site",
+          "date": "2026-10-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "keurig-alta-compostable-pods",
+      "title": "Keurig Alta предложит компостируемые кофейные капсулы",
+      "topic": "Бытовая техника",
+      "isAi": false,
+      "body": [
+        "Keurig Alta нацелена отказаться от привычных K-Cup в пользу другого формата капсул.",
+        "По данным Wired, капсулы компостируемые и не содержат пластика или алюминия.",
+        "Издание отмечает, что цена такого решения высока."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+          "date": "2026-10-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "bitchat-india-app-store-restrictions",
+      "title": "Bitchat в основном недоступен в Индии после распоряжения властей",
+      "topic": "Мессенджеры и регулирование",
+      "isAi": false,
+      "body": [
+        "Мессенджер Bitchat исчез из магазинов приложений в Индии после правительственного распоряжения.",
+        "TechCrunch пишет, что из-за ограничений сервис стал в стране в основном недоступен.",
+        "Таким образом, меры затронули распространение Bitchat на индийском рынке."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "date": "2026-10-03"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "capcom-ai-game-development",
+      "title": "Capcom намерена использовать ИИ для ускорения разработки игр",
+      "topic": "ИИ и разработка игр",
+      "isAi": true,
+      "body": [
+        "Capcom планирует применять ИИ, чтобы ускорить процесс разработки игр.",
+        "При этом компания ранее заявляла, что не будет использовать созданный ИИ контент в своих играх.",
+        "Engadget отдельно отмечает прежнюю позицию Capcom по использованию такого контента."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+          "date": "2026-10-03"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "hevcut-photo-library-optimizer",
+      "title": "HEVCut помогает освободить место в Фото без удаления снимков",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "HEVCut оптимизирует фотобиблиотеку, чтобы помочь решить проблему нехватки места на iPhone.",
+        "Приложение позволяет уменьшить занимаемое библиотекой пространство, не удаляя снимки.",
+        "9to5Mac представил HEVCut в своей серии материалов об инди-приложениях."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+          "date": "2026-10-03"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "vessev-electric-hydrofoil-ferry",
+      "title": "Vessev построила электрический паром на подводных крыльях",
+      "topic": "Электротранспорт",
+      "isAi": false,
+      "body": [
+        "Стартап Vessev построил электрический паром на подводных крыльях.",
+        "TechCrunch описывает его как судно, которое почти летит.",
+        "Компания надеется, что такой паром изменит представление людей и городов о водном транспорте."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+          "date": "2026-10-03"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
