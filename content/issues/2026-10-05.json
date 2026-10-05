@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-05",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — фотоника для ИИ-ускорителей, запуск дроновой доставки, утечка данных в Дании и новые сервисы и технологии.",
+  "materials": [
+    {
+      "id": "volantis-photonic-ai-accelerators",
+      "title": "Volantis хочет соединить память и вычисления в ИИ-ускорителях с помощью фотоники",
+      "topic": "ИИ и чипы",
+      "isAi": true,
+      "body": [
+        "Volantis представила план по интеграции фотоники в ИИ-ускорители, чтобы преодолеть «стену памяти».",
+        "The Register связывает эту идею с передачей данных между памятью и вычислениями без проводов.",
+        "Издание также отмечает, что Volantis поддерживает Сэм Альтман."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "wing-walmart-drone-delivery",
+      "title": "Wing и Walmart планируют доставлять товары дронами в Денвере и Сиэтле",
+      "topic": "Доставка дронами",
+      "isAi": false,
+      "body": [
+        "Wing и Walmart намерены запустить доставку дронами в Денвере и Сиэтле в 2027 году.",
+        "Дроны смогут перевозить груз весом до пяти фунтов.",
+        "Объявленный план касается доставки именно в эти два города."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2277395/wing-and-walmart-are-bringing-drone-deliveries-to-denver-and-seattle-in-2027/",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "danish-government-database-breach",
+      "title": "Взлом датской государственной базы затронул данные 8 миллионов человек",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Правительство Дании сообщило о взломе базы данных, в результате которого были похищены сведения о восьми миллионах человек.",
+        "Среди затронутых данных — имена, адреса и государственные идентификационные номера.",
+        "В число пострадавших вошли люди, живущие за границей, и умершие."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "googlebooks-intel-android-apps",
+      "title": "Google признала проблемы с некоторыми Android-приложениями на Intel Googlebook",
+      "topic": "Ноутбуки и приложения",
+      "isAi": false,
+      "body": [
+        "В день выхода новых Googlebook компания признала, что некоторые сложные Android-приложения могут работать на моделях с Intel хуже ожидаемого.",
+        "Ранее Google подчёркивала, что владельцам ноутбуков будет доступна вся библиотека Play Store.",
+        "Теперь компания уточнила, что совместимость приложений не всегда означает плавную работу."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "minigraf-rust-graph-database",
+      "title": "Minigraf — встраиваемая графовая база данных с поддержкой двух временных измерений",
+      "topic": "Базы данных",
+      "isAi": false,
+      "body": [
+        "В Hacker News представили Minigraf — встраиваемую графовую базу данных, написанную на Rust.",
+        "Библиотека включает собственные механизмы хранения, транзакций и запросов, не полагаясь для этого на другую базу данных.",
+        "Minigraf поддерживает полноценную бивременную модель данных."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/project-minigraf/minigraf",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "bt-talktalk-acquisition",
+      "title": "BT покупает TalkTalk, чтобы сохранить связь для 2,5 млн клиентов",
+      "topic": "Телекоммуникации",
+      "isAi": false,
+      "body": [
+        "BT выкупает TalkTalk, чтобы продолжить обслуживать 2,5 миллиона клиентов провайдера.",
+        "Издание оценивает денежные последствия сделки для BT примерно в 400 миллионов фунтов.",
+        "Virgin Media раскритиковала сделку как нечестную."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/networks/2026/10/05/bt-buys-talktalk-out-of-administration-to-keep-25m-customers-connected/5301066",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "verifact-disputed-facts-market",
+      "title": "Verifact Markets предлагает торговать на спорных фактах прошлого",
+      "topic": "Цифровые сервисы",
+      "isAi": false,
+      "body": [
+        "Новая платформа Verifact Markets предлагает рынок прогнозов, посвящённый событиям прошлого.",
+        "Пользователи могут торговать на утверждениях, которые остаются предметом споров.",
+        "Такой формат переносит механику рынков прогнозов на спорные факты, а не только на будущие события."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+          "date": "2026-10-05"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
