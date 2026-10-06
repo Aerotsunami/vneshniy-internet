@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-06",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новая модель Mistral, ИИ-подсказки Pinterest для салонов, сервис контроля качества на КТ и запуск Parseable, а также завершение крупного медиаслияния.",
+  "materials": [
+    {
+      "id": "mistral-large-4-release",
+      "title": "Mistral выпустила мультимодальную модель Large 4",
+      "topic": "ИИ и модели",
+      "isAi": true,
+      "body": [
+        "Французская лаборатория Mistral AI выпустила Mistral Large 4.",
+        "Это новая большая мультимодальная модель.",
+        "TechCrunch описывает её запуск как попытку обойти закрытых и открытых конкурентов."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+          "date": "2026-10-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "pinterest-beauty-guides",
+      "title": "Pinterest превращает бьюти-пины в планы для похода в салон",
+      "topic": "Социальные сети",
+      "isAi": true,
+      "body": [
+        "Pinterest запустила Beauty Guides — функцию на базе ИИ.",
+        "Она преобразует пины о причёсках и ногтях в формулировки, понятные в салоне.",
+        "В рекомендациях указываются примерная стоимость, длительность визита и потребности в дальнейшем уходе."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+          "date": "2026-10-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "glimpse-explore-ct-quality",
+      "title": "Glimpse представила ПО для контроля деталей с помощью КТ",
+      "topic": "Промышленное ПО",
+      "isAi": false,
+      "body": [
+        "Glimpse представила Explore — новое ПО для обработки изображений.",
+        "Инструмент рассчитан на производителей оборудования, которые используют компьютерные томографы.",
+        "Explore позволяет ускорить проверки качества деталей."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+          "date": "2026-10-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "paramount-wbd-merger-skydance",
+      "title": "Paramount завершила слияние с Warner Bros. Discovery",
+      "topic": "Медиа и развлечения",
+      "isAi": false,
+      "body": [
+        "Paramount завершила слияние с Warner Bros. Discovery; объединённая компания будет называться Skydance.",
+        "В сделке объединились стриминговые сервисы Paramount+ и HBO Max.",
+        "В состав новой медиакомпании также вошли CBS, CNN, MTV, TBS, Comedy Central и Food Network."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+          "date": "2026-10-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "parseable-observability-datalake",
+      "title": "Parseable представила открытое хранилище данных для наблюдаемости",
+      "topic": "Разработка и инфраструктура",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили Parseable — открытое хранилище данных для наблюдаемости.",
+        "Проект заявляет, что обрабатывает 100 миллионов временных рядов в минуту.",
+        "Это запуск нового инструмента для работы с данными наблюдаемости."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://www.parseable.com",
+          "date": "2026-10-06"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
