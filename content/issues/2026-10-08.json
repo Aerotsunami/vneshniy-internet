@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-08",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — утечка данных клиентов ASOS, Spotify открывает свои технологии внешним компаниям, Google выпускает офлайн-сервис для заметок, Amazon представляет новые планшеты, а Uber и Pony.ai готовят испытания роботакси в Лондоне.",
+  "materials": [
+    {
+      "id": "asos-customer-data-breach",
+      "title": "ASOS подтвердила утечку данных клиентов после подозрительного уведомления",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "ASOS подтвердила утечку данных клиентов после того, как злоумышленники отправили им уведомление через приложение.",
+        "В сообщении утверждалось, что облачное хранилище компании было полностью скомпрометировано.",
+        "Уведомление стало способом, которым злоумышленники сообщили клиентам о заявленной компрометации."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "spotify-enterprise-tech-site",
+      "title": "Spotify открывает свои внутренние технологии внешним компаниям",
+      "topic": "Корпоративные технологии",
+      "isAi": false,
+      "body": [
+        "Spotify запустила сайт technology.spotify.com.",
+        "На нём компания намерена представить внешним заказчикам технологии, созданные для собственных нужд.",
+        "Запуск отражает планы Spotify активнее предлагать корпоративное программное обеспечение."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "google-ai-edge-foresight",
+      "title": "Google выпустила офлайн-приложение для заметок со встреч",
+      "topic": "ИИ и продуктивность",
+      "isAi": true,
+      "body": [
+        "Google представила AI Edge Foresight — приложение для ведения заметок во время встреч.",
+        "Оно может расшифровывать разговоры, создавать заметки и отвечать на вопросы без подключения к интернету.",
+        "Для обработки используется ИИ, работающий непосредственно на устройстве."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-alexa-tablets",
+      "title": "Amazon представила три планшета Alexa с доступом к Google Play",
+      "topic": "Планшеты и устройства",
+      "isAi": false,
+      "body": [
+        "В новую линейку Amazon вошли модели Alexa Tablet 12 Pro, Alexa Tablet 11 и Alexa Tablet 8.",
+        "Планшеты работают на Android и имеют полный доступ к магазину Google Play.",
+        "Amazon также подготовила версии устройств для детей."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+          "date": "2026-10-08"
+        },
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
+          "date": "2026-10-08"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2280730/amazon-is-releasing-kids-versions-of-its-new-alexa-tablets/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "uber-ponyai-london-robotaxis",
+      "title": "Uber и Pony.ai начнут испытания роботакси в Лондоне",
+      "topic": "Беспилотный транспорт",
+      "isAi": false,
+      "body": [
+        "Uber и китайская Pony.ai планируют испытать роботакси в Лондоне.",
+        "В ближайшие недели компании начнут тестировать автомобили Pony.ai поколения Gen-7.",
+        "О планах сообщили обе компании."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
