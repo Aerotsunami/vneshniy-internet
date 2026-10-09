@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-09",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — спутниковая альтернатива GPS от Xona, бесплатная проверка open-source-проектов на уязвимости, новый вариант iPhone-шпионского ПО и другие новости технологий.",
+  "materials": [
+    {
+      "id": "xona-commercial-gps-beta",
+      "title": "Xona готовит к тестированию коммерческую альтернативу GPS",
+      "topic": "Спутниковая навигация",
+      "isAi": false,
+      "body": [
+        "Xona готовится открыть бета-тестирование сервиса точного позиционирования и синхронизации времени.",
+        "Сервис станет доступен после запуска шести спутников, разработанных компанией.",
+        "Для вывода спутников на орбиту будет использована ракета SpaceX."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "anthropic-oss-scanner",
+      "title": "Anthropic запустила бесплатное сканирование open-source-проектов",
+      "topic": "Кибербезопасность",
+      "isAi": true,
+      "body": [
+        "Anthropic предлагает open-source-проектам бесплатный сервис OSS Scanner для поиска уязвимостей.",
+        "Проекты, которые подключатся к сервису, смогут получать регулярные проверки с помощью наиболее мощных моделей компании.",
+        "Сканирование проводится по желанию разработчиков и не требует оплаты."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
+          "date": "2026-10-09"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "darksword-iphone-spyware-variant",
+      "title": "Для iPhone обнаружили новый вариант шпионского ПО DarkSword",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Исследователи обнаружили новый вариант шпионского ПО, связанного с цепочкой эксплойтов DarkSword.",
+        "В отчёте iVerify он назван P7 DarkSword.",
+        "Найденный вариант затрагивает не обновлённые iPhone; исходную цепочку эксплойтов обнаружили ранее в этом году."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+          "date": "2026-10-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-bytedance-ad-ban",
+      "title": "Meta запретила рекламу ByteDance на своих платформах",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Meta запретила рекламу TikTok и его материнской компании ByteDance на своих платформах в США и нескольких других странах.",
+        "Ограничение распространяется на рекламу и оплаченные маркетинговые сообщения ByteDance.",
+        "Под запрет также попала реклама третьих сторон со ссылками на ByteDance; он вступил в силу в четверг."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "request-eagle-open-source-postman-alternative",
+      "title": "Request Eagle представили как открытую альтернативу Postman",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "На Product Hunt появился Request Eagle.",
+        "Проект позиционируют как быструю альтернативу Postman с открытым исходным кодом.",
+        "Карточка запуска кратко описывает его через открытый исходный код и скорость."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/request-eagle",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "global-pc-shipments-drop-20",
+      "title": "Мировые поставки ПК сократились на 20 процентов",
+      "topic": "Компьютеры и рынок",
+      "isAi": false,
+      "body": [
+        "Мировые поставки персональных компьютеров упали на 20 процентов на фоне роста цен.",
+        "Ранее покупатели спешили приобрести компьютеры до повышения цен, но затем спрос ослаб.",
+        "The Register связывает удорожание с нехваткой компонентов, вызванной спросом со стороны ИИ-индустрии."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
