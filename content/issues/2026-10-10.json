@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-10",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — персональный ИИ-агент для самостоятельного размещения, новый способ подмены адресов в Chromium, умная розетка Onvis, частоты 800 МГц для Starlink и открытые данные миссии Artemis II.",
+  "materials": [
+    {
+      "id": "talorys-self-hosted-agent",
+      "title": "Talorys предлагает персонального ИИ-агента для самостоятельного размещения",
+      "topic": "ИИ и инструменты",
+      "isAi": true,
+      "body": [
+        "На Hacker News появился Talorys — персональный ИИ-агент, который можно разместить самостоятельно.",
+        "В описании проекта заявлена возможность запустить его на бесплатном тарифе Cloudflare.",
+        "Ссылка из публикации ведёт на страницу Talorys на GitHub."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/rociiu/talorys",
+          "date": "2026-10-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "chromium-lookalike-typosquatting",
+      "title": "Похожие буквы открывают путь к подмене адресов в Chromium",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Для браузеров на Chromium описали новый способ тайпсквоттинга.",
+        "Злоумышленники используют редкие похожие буквы кириллицы и латиницы.",
+        "С их помощью они маскируют поддельные адреса под сайты популярных сервисов."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
+          "date": "2026-10-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "onvis-outdoor-matter-plug",
+      "title": "Onvis выпустила уличную умную розетку Matter over Thread",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Onvis выпустила уличную умную розетку с поддержкой Matter over Thread.",
+        "Устройство измеряет энергопотребление в реальном времени и имеет защиту от погоды по стандарту IP65.",
+        "Розетка работает с Apple Home без отдельного хаба."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "starlink-800mhz-indoor-coverage",
+      "title": "Спектр 800 МГц должен помочь Starlink обеспечить связь в помещениях",
+      "topic": "Спутниковая связь",
+      "isAi": false,
+      "body": [
+        "Сделка по спектру 800 МГц охватывает всю страну.",
+        "Этот спектр должен помочь Starlink обеспечивать мобильное покрытие внутри зданий.",
+        "Ars Technica связывает договорённость с планами компании конкурировать с AT&T, T-Mobile и Verizon."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "nasa-artemis-ii-data-release",
+      "title": "NASA открыла доступ почти к 1 ТБ данных Artemis II",
+      "topic": "Космос",
+      "isAi": false,
+      "body": [
+        "NASA сделала общедоступными почти 1 ТБ данных миссии Artemis II.",
+        "В подборку вошли фотографии, аудио, видео и заметки астронавтов.",
+        "Эти материалы будут использовать для изучения Луны и подготовки будущих пилотируемых миссий."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
+          "date": "2026-10-09"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
