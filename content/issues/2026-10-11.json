@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-11",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — покупка Deno компанией Cloudflare, расследование возможной подмены криптокошельков Ledger, новые подробности об умном хабе Apple и разработки для Go и будущих чипов.",
+  "materials": [
+    {
+      "id": "cloudflare-deno-acquisition",
+      "title": "Cloudflare приобрела Deno для развития платформы Workers",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "Cloudflare приобрела компанию Deno.",
+        "Как сообщает TechCrunch, Cloudflare намерена использовать приобретение для улучшения программной модели Workers и своей платформы.",
+        "В публикации сделка описана как часть развития инструментов Cloudflare для разработчиков."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "date": "2026-10-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ledger-wallet-tampering",
+      "title": "Ledger расследует сообщения о подмене криптокошельков",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Пользователи Ledger сообщают о пропаже средств, а причиной подозревают вмешательство в устройства.",
+        "По данным The Verge, проблема может быть связана с кошельками, которые продавала компания CryptoBillis.",
+        "Ledger попросила CryptoBillis приостановить продажи на время расследования."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+          "date": "2026-10-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-homeview-reported-hub",
+      "title": "Apple, по сообщениям, выпустит умный хаб HomeView в ноябре",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "По данным Bloomberg, которыми делится 9to5Mac, Apple представит умный домашний хаб HomeView на мероприятии 13 октября.",
+        "Устройство, как сообщается, поступит в продажу в ноябре и будет доступно в четырёх цветах.",
+        "В публикации также упоминается чип A18."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
+          "date": "2026-10-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "go-dev-auth-library",
+      "title": "На Hacker News представили библиотеку аутентификации для Go",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "Проект go-dev-auth позиционируется как библиотека аутентификации для языка Go.",
+        "В описании запуска отдельно отмечено, что библиотека не требует сторонних зависимостей.",
+        "Ссылка из публикации ведёт на репозиторий проекта на GitHub."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/go-dev-auth/go-dev-auth",
+          "date": "2026-10-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "2d-semiconductor-growth",
+      "title": "Исследователи нашли способ контролировать рост двумерных полупроводников",
+      "topic": "Полупроводники",
+      "isAi": false,
+      "body": [
+        "Исследователи из Кореи применили кислород, чтобы кристаллы не формировались в нежелательных местах.",
+        "Такой контроль нужен для выращивания двумерных полупроводников, которые рассматривают для будущих чипов.",
+        "Переход технологии к коммерческому применению намечен на 2030 год."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666",
+          "date": "2026-10-11"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
