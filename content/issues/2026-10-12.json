@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-12",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — ИИ-чип Microsoft, сервис для подготовки строительных чертежей, сбои у Yandex и новые продукты и функции для устройств и разработчиков.",
+  "materials": [
+    {
+      "id": "microsoft-maia-300-inference-chip",
+      "title": "Microsoft представила ИИ-чип Maia 300",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Microsoft анонсировала третье поколение собственных ИИ-чипов — Maia 300.",
+        "Компания проектирует его как основную систему инференса для своих продуктов и сервисов.",
+        "По данным The Verge, чип должен повысить эффективность и снизить стоимость облачных ИИ-нагрузок, а также лучше справляться с рассуждающими моделями и ИИ-агентами."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "blueprints-ai-permit-blueprints",
+      "title": "Blueprints AI превращает наброски в строительные чертежи",
+      "topic": "Стартапы",
+      "isAi": true,
+      "body": [
+        "Стартап Blueprints AI разработал программу для подготовки строительных чертежей.",
+        "На вход можно подать фотографию, PDF-файл или эскиз, а сервис создаёт чертежи, соответствующие строительным нормам.",
+        "Компания из Санта-Моники развивает проект без привлечённых инвестиций."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "yandex-datacenter-outage",
+      "title": "Сбои дата-центров Yandex затронули облако и платежи",
+      "topic": "Интернет и инфраструктура",
+      "isAi": false,
+      "body": [
+        "The Register сообщает, что удары по дата-центрам Yandex привели к сбоям в облачных сервисах и платежах.",
+        "По данным издания, сетевое подключение упало примерно до 30 процентов от обычного уровня.",
+        "Пользователи ожидали доступа к средствам, а технические специалисты компании работали круглосуточно."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fitbit-edge-launch",
+      "title": "Google выпустит фитнес-браслет Fitbit Edge за $179,99",
+      "topic": "Носимые устройства",
+      "isAi": false,
+      "body": [
+        "Google представила Fitbit Edge — устройство между браслетом Fitbit Air и часами Pixel Watch.",
+        "У модели есть OLED-экран; в магазинах она появится 27 октября.",
+        "Цена Fitbit Edge составит $179,99."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
+          "date": "2026-10-12"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "whatsapp-scheduled-messages",
+      "title": "В WhatsApp может появиться планирование сообщений",
+      "topic": "Мессенджеры",
+      "isAi": false,
+      "body": [
+        "WhatsApp может вскоре добавить возможность планировать отправку сообщений.",
+        "Функция позволит выбрать время, когда сообщение должно быть отправлено.",
+        "Engadget отмечает, что в Telegram такая возможность доступна с 2019 года."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2283518/whatsapp-users-may-soon-be-able-to-schedule-messages/",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "context-dev-scrape-anything",
+      "title": "Scrape Anything собирает данные с сайтов через API",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили Scrape Anything от Context.dev.",
+        "Сервис обещает превращать любой сайт в очищенные данные.",
+        "Для этого, согласно описанию запуска, достаточно одного вызова API."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/context-dev",
+          "date": "2026-10-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "oneplus-16-china-launch",
+      "title": "OnePlus выпустила флагман OnePlus 16 в Китае",
+      "topic": "Смартфоны",
+      "isAi": false,
+      "body": [
+        "OnePlus 16 вышел в Китае.",
+        "Это первый флагман компании после ухода с рынков США и Европы летом этого года.",
+        "The Verge отмечает, что смартфон ориентирован на производительность."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+          "date": "2026-10-12"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
