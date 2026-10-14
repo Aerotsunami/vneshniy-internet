@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-14",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — цифровой музей Леонардо да Винчи, инструменты для PostgreSQL и Python, а также новые решения для производства, домашней электроники и сна.",
+  "materials": [
+    {
+      "id": "museum-of-ages-da-vinci",
+      "title": "В сети открылся 3D-музей Леонардо да Винчи",
+      "topic": "Цифровые проекты",
+      "isAi": false,
+      "body": [
+        "Museum of Ages открыл первую часть виртуального музея, посвящённого Леонардо да Винчи.",
+        "Экскурсия включает 17 остановок, 15 воссозданных машин и 29 анатомических листов. В виртуальном читальном зале собраны 207 страниц рукописей, 131 из них переведена.",
+        "Музей доступен на семи языках и работает на WebGPU с запасным режимом WebGL2 для браузеров без поддержки WebGPU."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://museumofages.org/w/vinci",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "timescale-pg-vectorsearch-index",
+      "title": "Timescale показала новый индекс для векторного поиска в PostgreSQL",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "Проект pg_vectorsearch добавляет индекс для поиска по векторам в PostgreSQL.",
+        "Авторы позиционируют его как более быстрый вариант по сравнению с IVFFlat и HNSW из pgvector.",
+        "Код проекта опубликован на GitHub."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/timescale/pg_vectorsearch",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "python-315-utf8",
+      "title": "Python 3.15 расширяет поддержку UTF-8",
+      "topic": "Языки программирования",
+      "isAi": false,
+      "body": [
+        "Python 3.15 расширяет поддержку UTF-8, пишет The Register.",
+        "Изменение должно помочь избавиться от проблем с искажением символов при работе кода на разных платформах.",
+        "Издание отдельно отмечает, что это давняя проблема для разработчиков под Windows."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/devops/2026/10/14/python-315-goes-global-with-utf-8-support/5302966",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "industrial-next-flexible-robots",
+      "title": "Industrial Next хочет ускорить перенастройку фабричных роботов",
+      "topic": "Стартапы",
+      "isAi": false,
+      "body": [
+        "Industrial Next помогает производителям автоматизировать сложные и деликатные задачи, которые раньше выполняли люди.",
+        "Компания ставит цель сократить смену задач для промышленных роботов с недель до минут.",
+        "О разработке стартапа рассказал TechCrunch."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "date": "2026-10-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "helix-carbon-blast-furnace",
+      "title": "Helix Carbon перерабатывает выбросы доменных печей",
+      "topic": "Климатические технологии",
+      "isAi": false,
+      "body": [
+        "Стартап Helix Carbon предлагает повторно использовать загрязнения от доменных печей.",
+        "Компания утверждает, что такой подход может снизить стоимость производства железа и выбросы.",
+        "По данным TechCrunch, переработка также должна улучшить маржинальность сталелитейных предприятий."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+          "date": "2026-10-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "formlabs-form-studio-1",
+      "title": "Настольный 3D-принтер Formlabs стоит $699",
+      "topic": "3D-печать",
+      "isAi": false,
+      "body": [
+        "Form Studio 1 — настольный 3D-принтер Formlabs.",
+        "Устройство достаточно компактно, чтобы разместить его на столе.",
+        "Цена модели составляет $699."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "cmf-portable-speakers",
+      "title": "CMF представила первые портативные колонки",
+      "topic": "Аудиотехника",
+      "isAi": false,
+      "body": [
+        "Сестринский бренд Nothing выпустил первые портативные Bluetooth-колонки CMF.",
+        "Колонки можно объединять в пару.",
+        "Также устройства поддерживают Auracast."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "samsung-health-sleep-coaching",
+      "title": "Samsung Health сократила сбор данных для Sleep Coaching до трёх дней",
+      "topic": "Здоровье и носимые устройства",
+      "isAi": false,
+      "body": [
+        "Функция Sleep Coaching в Samsung Health теперь требует данные всего за три дня.",
+        "Изменение касается владельцев Galaxy Watch.",
+        "Engadget сообщает, что благодаря этому пользователи могут быстрее получить рекомендации по сну."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2286336/samsung-healths-sleep-coaching-now-requires-just-three-days-of-data/",
+          "date": "2026-10-14"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
