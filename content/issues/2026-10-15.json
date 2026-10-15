@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-15",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые ИИ-продукты MacPaw и Bee, инструменты для обмена файлами и поиска тем терминала, трекер Wi-Fi United и расследование о шпионском ПО в рекламе.",
+  "materials": [
+    {
+      "id": "citizenlab-zero-click-ad-spyware",
+      "title": "Citizen Lab раскрыла распространение шпионского ПО через рекламу",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Исследователи Citizen Lab опубликовали технические свидетельства того, что шпионское ПО распространяется через интернет-рекламу.",
+        "По данным Wired, заражение может происходить без нажатия на объявление. Engadget называет кампанию AdFection и сообщает, что она затрагивает телефоны и компьютеры.",
+        "TechCrunch пишет, что после показа вредоносной рекламы были взломаны десятки устройств медиакомпании Al Jazeera."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "bee-ai-devices-launch",
+      "title": "Bee выпустила два новых ИИ-устройства для заметок",
+      "topic": "Носимые устройства",
+      "isAi": true,
+      "body": [
+        "Принадлежащая Amazon компания Bee представила первые новые устройства после приобретения: обновлённый носимый гаджет Frontier и компактный диктофон Eclipse, который крепится к смартфону.",
+        "Устройства умеют делать краткие записи разговоров и составлять списки дел; также заявлена интеграция с Alexa и покупками на Amazon.",
+        "Bee Frontier стоит $74,99. Для доступа к основным возможностям потребуется подписка Pro."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "macpaw-eney-ai-assistant",
+      "title": "MacPaw выпустила ИИ-помощника Eney для Mac и iPhone",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "MacPaw выпустила Eney — проактивного ИИ-помощника для Mac и iPhone.",
+        "Он работает с приложениями, файлами и системой, помогая выполнять повседневные задачи.",
+        "Разработка Eney началась в 2019 году."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "flipflop-iroh-file-tunnels",
+      "title": "Flipflop создаёт постоянные туннели для обмена файлами",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "В проекте Flipflop предлагают постоянные туннели для обмена файлами на базе Iroh.",
+        "Автор рассказывает, что взялся за него из-за неудобств при передаче файлов через LocalSend и DashBeam, а среди целей называет высокую скорость.",
+        "Проект также задуман как постоянно доступный канал связи с доверенными людьми; автор экспериментирует с фреймворком Slint."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/andunieee/flipflop",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "terminalthemes-web-app",
+      "title": "Веб-приложение Terminal Themes собрало более 800 тем",
+      "topic": "Инструменты разработчика",
+      "isAi": false,
+      "body": [
+        "Создатель репозитория цветовых схем iTerm2 запустил веб-приложение Terminal Themes.",
+        "В каталоге уже более 800 тем, а скачать их можно почти в 40 форматах для разных терминалов.",
+        "Просматривать и скачивать темы можно бесплатно и без аккаунта. Зарегистрированные пользователи могут голосовать, сохранять и предлагать темы; также в приложении есть интерактивный предпросмотр."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50098454",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "united-starlink-flight-tracker",
+      "title": "United запустила проверку Wi-Fi Starlink для рейсов",
+      "topic": "Интернет и инфраструктура",
+      "isAi": false,
+      "body": [
+        "United Airlines запустила трекер, который помогает проверить, будет ли на выбранном рейсе Wi-Fi через Starlink.",
+        "Авиакомпания сообщает, что высокоскоростной спутниковый интернет уже доступен почти на половине её рейсов.",
+        "Внедрять Starlink на борту United начала в начале 2025 года."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/15/half-of-united-flights-have-starlink-wi-fi-heres-how-to-check-yours/",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2287350/united-offers-starlink-wi-fi-flight-tracker/",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
