@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-16",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — раздельные достижения в Steam, перенос PostgreSQL 19, новые возможности ChatGPT в Chrome и решение отменить високосные секунды.",
+  "materials": [
+    {
+      "id": "steam-achievement-sets",
+      "title": "Steam тестирует отдельные наборы достижений",
+      "topic": "Игры и сервисы",
+      "isAi": false,
+      "body": [
+        "Steam начала бета-тест Achievement Sets — отдельных наборов достижений для игр.",
+        "Разработчики смогут разделять достижения основной игры и дополнений, чтобы DLC не влияли на список достижений базовой игры.",
+        "Достижения по-прежнему открываются во время игры, а после этого их можно просматривать по наборам."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "postgres-19-delayed-ai-review",
+      "title": "PostgreSQL 19 перенесли на ноябрь после проверки кода ИИ",
+      "topic": "Разработка",
+      "isAi": false,
+      "body": [
+        "Релиз PostgreSQL 19 перенесли на ноябрь: разработчики откатили до десяти функций.",
+        "ИИ-инструменты проверки кода нашли больше ошибок, чем команда успевала исправлять.",
+        "Разработчики объяснили перенос улучшением инструментов проверки, а не вайб-кодингом."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "date": "2026-10-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "chatgpt-chrome-tabs",
+      "title": "ChatGPT научился работать с открытыми вкладками Chrome",
+      "topic": "ИИ и браузеры",
+      "isAi": true,
+      "body": [
+        "Расширение ChatGPT для Chrome теперь может использовать открытые вкладки браузера при выполнении задач.",
+        "Среди описанных возможностей — сравнение информации на нескольких страницах.",
+        "OpenAI сообщает, что вкладки можно передать ChatGPT из веб- или настольного приложения, выбрав Chrome."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
+          "date": "2026-10-16"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "date": "2026-10-15"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "leap-second-vote",
+      "title": "Международное бюро мер и весов проголосовало за отмену високосных секунд",
+      "topic": "Интернет и инфраструктура",
+      "isAi": false,
+      "body": [
+        "Международное бюро мер и весов (BIPM) проголосовало за отмену високосных секунд.",
+        "Так называют редкие поправки к шкале времени, которые добавляют, чтобы она соответствовала вращению Земли.",
+        "Изменение призвано снизить риск сбоев инфраструктуры, связанных с такими внезапными поправками."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+          "date": "2026-10-16"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
