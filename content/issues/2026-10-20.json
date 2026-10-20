@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-20",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые сервисы доставки, платные подписки Spotify, сбой Google Cloud и изменения доступа к NFC на iPhone.",
+  "materials": [
+    {
+      "id": "google-cloud-london-outage",
+      "title": "Сбой Google Cloud в Лондоне затронул банки и другие сайты",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Google Cloud сообщила, что причиной сегодняшнего сбоя стало нарушение электроснабжения.",
+        "Проблемы возникли в лондонской зоне; среди затронутых сервисов оказались сайты банков, почтовой службы и компаний в сфере недвижимости.",
+        "На момент публикации восстановление работы предварительно ожидалось к 13:00 UTC."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "spotify-paid-podcast-memberships",
+      "title": "Spotify запустила платные подписки на подкасты в 34 регионах",
+      "topic": "Музыка и подкасты",
+      "isAi": false,
+      "body": [
+        "Spotify начала запуск подписок Memberships, через которые авторы подкастов могут предлагать слушателям платные бонусы.",
+        "Среди возможных преимуществ — дополнительные выпуски, ранний доступ и прослушивание без рекламы.",
+        "По данным TechCrunch, авторам останется 90% выручки от подписок."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+          "date": "2026-10-20"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "yelp-restaurant-wait-ai-calls",
+      "title": "Yelp добавила ИИ-функции для звонков в рестораны",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Yelp встраивает в приложение новые функции на основе ИИ.",
+        "Одна из них может позвонить в ресторан и узнать время ожидания.",
+        "Также компания добавляет персональные рекомендации, которые запоминают предпочтения пользователя."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "olo-flat-fee-delivery",
+      "title": "Olo представила приложение доставки с наценкой 5%",
+      "topic": "Сервисы доставки",
+      "isAi": false,
+      "body": [
+        "Компания Olo предлагает новый сервис доставки еды.",
+        "В нём обещают сохранить цены меню на уровне цен в ресторане и взимать фиксированную комиссию 5%.",
+        "Такой подход должен снизить дополнительные расходы при заказе еды."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "flipkart-food-delivery-pilot",
+      "title": "Flipkart расширила тестирование сервиса доставки еды",
+      "topic": "Сервисы доставки",
+      "isAi": false,
+      "body": [
+        "Flipkart развивает в Индии собственный сервис доставки еды.",
+        "Компания открыла доступ к нему тысячам сотрудников.",
+        "Расширение тестирования проходит перед публичным запуском сервиса."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "antigravity-a1-follow-me",
+      "title": "Для дрона Antigravity A1 выпустили управление с часами и кольцом",
+      "topic": "Дроны и робототехника",
+      "isAi": false,
+      "body": [
+        "Antigravity представила комплект Follow Me для дрона A1.",
+        "В комплект входят часы и кольцо для отслеживания пользователя и управления жестами.",
+        "Аксессуары можно приобрести отдельно или вместе с дроном; The Verge также сообщает, что замена гарнитуры управлением с часов снизила цену комплекта вдвое."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
+          "date": "2026-10-20"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "uk-apple-nfc-access",
+      "title": "Британский регулятор добивается более открытого доступа к NFC iPhone",
+      "topic": "Интернет и регулирование",
+      "isAi": false,
+      "body": [
+        "Британский антимонопольный регулятор выступил за расширение доступа к NFC-чипу iPhone.",
+        "Ведомство считает, что нынешние условия Apple по-прежнему мешают разработчикам создавать практичные альтернативы Apple Pay.",
+        "Речь идёт о возможности конкурировать с сервисом бесконтактных платежей Apple."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
+          "date": "2026-10-20"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-muse-shared-chat-exposure",
+      "title": "Общие диалоги Meta Muse оказались доступны для поиска по заголовкам",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "В Meta Muse обнаружили проблему с поиском диалогов, которыми пользователи поделились.",
+        "По данным Ars Technica, одного запроса достаточно, чтобы найти тысячи разговоров, перечисленных по заголовкам.",
+        "Издание отмечает, что в таких переписках могут оказаться личные и деловые секреты."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
