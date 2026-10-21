@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-21",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — приложение Spotify для Audi, ускорение запуска игр, обновление OpenBSD и расследования мошенничества и компрометации ключей.",
+  "materials": [
+    {
+      "id": "spotify-native-audi-app",
+      "title": "Spotify запустила отдельное приложение для автомобилей Audi",
+      "topic": "Музыка и автомобили",
+      "isAi": false,
+      "body": [
+        "Spotify представила собственное приложение для автомобильных систем на Android Automotive.",
+        "Оно запускается сегодня в некоторых моделях Audi и работает непосредственно на мультимедийной системе автомобиля.",
+        "Для прослушивания не нужно подключать телефон, использовать Bluetooth или AUX-кабель."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+          "date": "2026-10-21"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "nvidia-advanced-shader-delivery",
+      "title": "Драйвер Nvidia ускоряет запуск игр и убирает подтормаживания",
+      "topic": "Компьютеры и игры",
+      "isAi": false,
+      "body": [
+        "Nvidia выпускает драйвер 621.01 с поддержкой технологии Microsoft Advanced Shader Delivery.",
+        "Она переносит компиляцию шейдеров для разных конфигураций оборудования в облако.",
+        "Это должно ускорить запуск игр и убрать компиляцию шейдеров на лету во время игры, уменьшая подтормаживания и нагрузку на процессор."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+          "date": "2026-10-21"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "booking-dsa-fraud-probe",
+      "title": "Еврокомиссия проверит Booking.com из-за мошеннических объявлений",
+      "topic": "Интернет и регулирование",
+      "isAi": false,
+      "body": [
+        "Еврокомиссия открыла расследование в отношении Booking.com в рамках Закона о цифровых услугах.",
+        "Проверка касается поддельных объявлений и фишинга на платформе.",
+        "Комиссия назвала меры сервиса по борьбе с мошенничеством «абсолютно неудовлетворительными»; расследование ещё не является итоговым решением."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+          "date": "2026-10-21"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "emudhra-ca-private-keys",
+      "title": "У центра сертификации eMudhra скомпрометировали закрытые ключи",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "У индийского центра сертификации eMudhra оказались скомпрометированы закрытые ключи; один из них, как сообщает The Register, был числом «4».",
+        "Издание пишет, что сейчас проводится масштабная работа по устранению последствий.",
+        "Скомпрометированные ключи создают возможность выдавать себя за любой сайт или сервис."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "openbsd-8-release",
+      "title": "Вышла OpenBSD 8.0 с поддержкой Intel Arc и новыми возможностями ARM64",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Вышла версия OpenBSD 8.0.",
+        "В обновлении появилась поддержка графики Intel Arc, гибернация на ARM64 и виртуальные машины с 64 виртуальными процессорами.",
+        "Ars Technica отмечает, что релиз не нарушил репутацию системы в области безопасности."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+          "date": "2026-10-20"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
