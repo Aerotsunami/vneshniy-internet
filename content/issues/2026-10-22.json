@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-22",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые микрофоны Insta360, кормушка Birdbuddy Nook и сервисы для разработчиков, перевода и безопасной работы ИИ-агентов.",
+  "materials": [
+    {
+      "id": "insta360-mic-wireless",
+      "title": "Insta360 выпустила более доступный комплект беспроводных микрофонов",
+      "topic": "Аудиотехника",
+      "isAi": false,
+      "body": [
+        "Insta360 представила беспроводной микрофон Mic как более доступную альтернативу системе Mic Pro.",
+        "Новая модель сохраняет цветной экран на электронных чернилах, но обходится без части функций старшей версии.",
+        "В Mic Pro цветные экраны можно было использовать для фирменного оформления, а три микрофона поддерживали разные диаграммы направленности."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen",
+          "date": "2026-10-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "birdbuddy-nook-feeder",
+      "title": "Birdbuddy выпустила компактную умную кормушку Nook",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Birdbuddy начала выпуск умных кормушек, а модель Birdbuddy 2 Mini получила новое имя — Nook.",
+        "Компания позиционирует её как более компактный и доступный вариант для небольших пространств.",
+        "Кормушки впервые анонсировали на CES 2026; теперь они выходят под новыми названиями."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+          "date": "2026-10-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tetriz-engineering-connectors",
+      "title": "Tetriz связывает сессии разработки с PR и задачами",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили Tetriz Engg Intelligence + Connectors.",
+        "Сервис заявлен как инструмент для связи сессий кодирования с pull request и задачами.",
+        "В описании также упомянуты показатели качества и окупаемости."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+          "date": "2026-10-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "sponkly-live-translation",
+      "title": "Sponkly предлагает голосовой перевод для звонков и встреч",
+      "topic": "Перевод и коммуникации",
+      "isAi": false,
+      "body": [
+        "Сервис Sponkly появился на Product Hunt с функцией живого голосового перевода.",
+        "В карточке продукта названы чаты, звонки и встречи.",
+        "Перевод также заявлен для видео на YouTube."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/sponkly",
+          "date": "2026-10-21"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "onepassword-agent-signin",
+      "title": "1Password разрешит ИИ-агентам входить в аккаунты без доступа к паролям",
+      "topic": "Кибербезопасность",
+      "isAi": true,
+      "body": [
+        "Новая функция 1Password for Agents позволяет ИИ-агентам запрашивать вход в пользовательские аккаунты.",
+        "При этом агенту не нужно видеть или обрабатывать сам пароль.",
+        "Каждый запрос на вход должен одобрить пользователь; свободный доступ ко всем аккаунтам агенту не предоставляется."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+          "date": "2026-10-22"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
