@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — еженедельные отчёты Basedash, новые световые панели SwitchBot, обновление Raspberry Pi Desktop и новости о правилах Meta, обучении моделей OpenAI и роботах Microduck.",
+  "materials": [
+    {
+      "id": "basedash-scheduled-csv",
+      "title": "Basedash будет отправлять свежие CSV-отчёты по расписанию",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "Basedash представила функцию Scheduled CSV Exports на Product Hunt.",
+        "Она позволяет один раз настроить отправку свежего CSV-файла каждую неделю.",
+        "Отчёт можно получать в Slack или по электронной почте."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/basedash",
+          "date": "2026-10-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "switchbot-light-bars",
+      "title": "SwitchBot выпустила световые панели с 12 зонами цвета",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "SwitchBot представила RGBICWW Light Bars для Apple Home.",
+        "В панелях есть отдельные холодные и тёплые белые светодиоды, а также 12 цветовых зон.",
+        "Они работают по Wi-Fi и Matter без отдельного хаба."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
+          "date": "2026-10-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "raspberry-pi-desktop-debian-13",
+      "title": "Raspberry Pi Desktop обновили для старых компьютеров",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Обновлённый Raspberry Pi Desktop основан на Debian 13.",
+        "По данным The Register, система комфортно работает даже на старых ThinkPad.",
+        "Установка не требует превращать настройку компьютера в отдельное хобби."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+          "date": "2026-10-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-delays-business-terms",
+      "title": "Meta отложила новые условия для бизнес-аккаунтов",
+      "topic": "Интернет и регулирование",
+      "isAi": false,
+      "body": [
+        "Meta перенесла введение новых условий для бизнес-аккаунтов.",
+        "Предстоявшие правила позволяли бы использовать контент таких аккаунтов для обучения ИИ.",
+        "Компания отложила изменение на фоне критики и опасений по поводу сбора данных."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+          "date": "2026-10-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "openai-offline-model-training",
+      "title": "OpenAI отключила интернет для обучения передовых моделей",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "OpenAI заявила, что её передовые модели теперь обучаются без прямого доступа к интернету.",
+        "Для испытаний компания создала изолированную среду с индексированным и кэшированным веб-контентом.",
+        "Изменение связано с мерами безопасности после серии инцидентов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "date": "2026-10-23"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+          "date": "2026-10-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microduck-voice-robots",
+      "title": "Роботы-игрушки Microduck разошлись тиражом 20 тысяч штук",
+      "topic": "Робототехника",
+      "isAi": false,
+      "body": [
+        "По данным TechCrunch, продано уже 20 тысяч роботов Microduck.",
+        "Небольшие игрушки ходят, издают звуки и могут сесть или лечь «вздремнуть».",
+        "По голосовой команде робот также делает кувырок."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "date": "2026-10-23"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
