@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-26",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новый iPad mini, видеосвязь Google Beam в 20 локациях USO, переход Tesco на Proxmox и инструменты для разработчиков.",
+  "materials": [
+    {
+      "id": "ipad-mini-oled",
+      "title": "Apple обновила iPad mini: OLED-экран и корпус тоньше",
+      "topic": "Гаджеты",
+      "isAi": false,
+      "body": [
+        "Apple представила новый iPad mini с OLED-дисплеем диагональю 8,5 дюйма.",
+        "Планшет стал тоньше и легче предыдущей модели; его толщина составляет 5,4 мм.",
+        "Цена начинается с 699 долларов за версию только с Wi-Fi и с 849 долларов за модель с Wi-Fi и сотовой связью."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+          "date": "2026-10-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "google-beam-uso",
+      "title": "Google развернёт Beam в 20 локациях USO",
+      "topic": "Видеосвязь",
+      "isAi": false,
+      "body": [
+        "Google Beam появится в 20 локациях USO.",
+        "Beam — технология трёхмерных видеоконференций Google.",
+        "Анонс касается уже конкретного развертывания: компания назвала число площадок."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2295586/google-beam-is-being-deployed-at-20-uso-locations/",
+          "date": "2026-10-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tesco-proxmox",
+      "title": "Tesco заменит VMware на Proxmox в магазинах и на периферии сети",
+      "topic": "Инфраструктура",
+      "isAi": false,
+      "body": [
+        "Tesco переходит с VMware на Proxmox в магазинах и на периферийных площадках.",
+        "The Register сообщает, что компания ищет специалиста, который будет отвечать за эту платформу виртуализации.",
+        "В объявлении её описывают как экономичную альтернативу."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+          "date": "2026-10-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "avp-git-alternative",
+      "title": "AVP предлагает открытую альтернативу Git для ИИ-агентов",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "AVP появился на Product Hunt как альтернатива Git с открытым исходным кодом.",
+        "Инструмент предназначен для ИИ-агентов, которые пишут код.",
+        "Проект позиционирует себя именно как система контроля версий для агентной разработки."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/avp",
+          "date": "2026-10-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "proc-cli-process-ports",
+      "title": "Proc-CLI управляет процессами и портами из командной строки",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили Proc-CLI — утилиту командной строки для управления процессами и портами.",
+        "Разработчики называют её инструментом, удобным для ИИ-агентов.",
+        "В описании проекта обозначены две основные задачи: работа с процессами и портами."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://proc-cli.com/",
+          "date": "2026-10-26"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
