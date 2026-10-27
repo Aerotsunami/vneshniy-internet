@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-27",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые устройства Apple, планы по выпуску ноутбуков BlueChip, обновления Ford и Instagram, а также инструменты для локального ИИ и работы с документами.",
+  "materials": [
+    {
+      "id": "apple-macbook-pro-m6",
+      "title": "Apple представила 14-дюймовый MacBook Pro с чипом M6",
+      "topic": "Гаджеты",
+      "isAi": false,
+      "body": [
+        "Apple представила новый 14-дюймовый MacBook Pro на чипе M6.",
+        "Стартовая цена ноутбука — 1 999 долларов.",
+        "Предзаказы начнутся 28 октября."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "imac-m6-refresh",
+      "title": "Apple обновила iMac, установив чип M6",
+      "topic": "Гаджеты",
+      "isAi": false,
+      "body": [
+        "Новое поколение настольных компьютеров iMac получило чип M6.",
+        "Стартовая цена составляет 1 499 долларов.",
+        "По данным Engadget, у M6 больше ядер и выше производительность на ядро, чем у M5."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+          "date": "2026-10-27"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "bluechip-us-laptops",
+      "title": "Anduril и Qualcomm готовят линейку ноутбуков BlueChip",
+      "topic": "Компьютеры",
+      "isAi": false,
+      "body": [
+        "Anduril и Qualcomm объединяются для выпуска ноутбуков под названием BlueChip.",
+        "Первый прототип — защищённая модель на чипе серии Snapdragon X, ориентированная на военных США.",
+        "Запуск линейки намечен на начало 2027 года; в перспективе партнёры хотят производить ноутбуки целиком в США."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+          "date": "2026-10-27"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ford-fathom-bidirectional-charging",
+      "title": "Ford встроит инвертор для резервного питания дома в электропикап Fathom",
+      "topic": "Электромобили",
+      "isAi": false,
+      "body": [
+        "Ford объявила о двунаправленной зарядке для будущего электропикапа Fathom.",
+        "В автомобиле предусмотрен встроенный инвертор, который можно использовать для резервного питания дома.",
+        "Пикап будет стоить менее 30 000 долларов, а его официальный показ ожидается через несколько месяцев."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "instagram-long-video-test",
+      "title": "Instagram тестирует горизонтальные видео длиной до 90 минут",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Instagram начал тестировать новый формат длинных горизонтальных видео.",
+        "Ролики могут длиться до 90 минут.",
+        "На первом этапе формат доступен отдельным авторам в США."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+          "date": "2026-10-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "contextgem-document-extraction",
+      "title": "ContextGem объединяет модели принятия решений и LLM для извлечения данных",
+      "topic": "Инструменты для ИИ",
+      "isAi": true,
+      "body": [
+        "На Product Hunt представили ContextGem 1.0.",
+        "Проект объединяет модели принятия решений с большими языковыми моделями.",
+        "Заявленная задача инструмента — извлекать данные из документов."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/contextgem",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "opera-webai-local-models",
+      "title": "Opera тестирует запуск локальных ИИ-моделей в браузере",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "В Opera One для Mac появилась предварительная функция запуска локальных ИИ-моделей.",
+        "Для этого Opera использует WebAI — предложенный компанией веб-стандарт.",
+        "Стандарт рассчитан на работу с разными моделями ИИ."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
+          "date": "2026-10-27"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "date": "2026-10-27"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
