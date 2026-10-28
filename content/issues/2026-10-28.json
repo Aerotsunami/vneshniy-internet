@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-28",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые устройства Amazon, ресторанный гид TikTok, коммерческий запуск беспилотных грузовиков и инструменты для разработчиков.",
+  "materials": [
+    {
+      "id": "amazon-echo-photo-frame-time",
+      "title": "Amazon показала фоторамку Alexa и умные часы Echo Time",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Amazon представила новые устройства Echo, включая цифровую фоторамку Alexa Photo Frame и умные часы Echo Time.",
+        "Фоторамка создана для показа снимков; нужные изображения можно выбирать голосом.",
+        "Echo Time умеет определять фазу более лёгкого сна, чтобы разбудить владельца в подходящий момент.",
+        "Обновлённый Echo Dot также может работать как усилитель Wi-Fi eero и центр управления умным домом."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1019626/amazon-alexa-plus-photo-digital-picture-frame-smart-speaker",
+          "date": "2026-10-28"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/",
+          "date": "2026-10-28"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tiktok-must-eat-guide",
+      "title": "TikTok запустила гид по ресторанам Must Eat",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "В TikTok появился раздел Must Eat с рекомендациями ресторанов.",
+        "Он собран на основе 40 миллионов публикаций, отзывов и комментариев о заведениях.",
+        "С новым гидом TikTok выходит на поле Yelp и Google Maps."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "kodiak-driverless-trucks",
+      "title": "Kodiak заключила первую сделку на беспилотные грузовики для трасс",
+      "topic": "Транспорт",
+      "isAi": true,
+      "body": [
+        "Kodiak заключила с DTL Transport первое коммерческое соглашение о поставке беспилотных грузовиков для общественных автомагистралей.",
+        "Сделка меняет роль Kodiak: компания движется к модели поставщика технологий, а не владельца и оператора грузовиков.",
+        "Это конкретный коммерческий шаг к использованию беспилотного транспорта на дорогах общего пользования."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "galaxy-buds-on",
+      "title": "Samsung представила клипсовые наушники Galaxy Buds On",
+      "topic": "Гаджеты",
+      "isAi": false,
+      "body": [
+        "Galaxy Buds On — первые клипсовые открытые беспроводные наушники Samsung.",
+        "Они крепятся к уху клипсой и не закрывают слуховой проход.",
+        "Новинка возвращает Samsung к формату открытых наушников."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2299270/samsungs-galaxy-buds-on-are-clip-on-open-ear-wireless-headphones/",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "licenseal-dependency-licenses",
+      "title": "Licenseal проверяет лицензии зависимостей перед выпуском",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "Licenseal представили на Product Hunt как инструмент для проверки лицензий зависимостей.",
+        "Он помогает обнаружить несовместимые лицензии.",
+        "Проверка рассчитана на этап до выпуска проекта."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/licenseal",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "virgin-galactic-apeiron",
+      "title": "Virgin Galactic представила корабль Apeiron",
+      "topic": "Космос",
+      "isAi": false,
+      "body": [
+        "Virgin Galactic показала новый космический корабль Apeiron.",
+        "Название выбрали по итогам публичного голосования; это первый аппарат нового класса Delta.",
+        "До полёта корабля, по данным публикации, осталось почти год."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
