@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-29",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые возможности Alexa и Reddit, сделка DoorDash с Instacart, открытая альтернатива юридическому ИИ и планы арктического кабеля.",
+  "materials": [
+    {
+      "id": "alexa-shopping-lists",
+      "title": "Alexa научилась управлять списками покупок и подарков",
+      "topic": "ИИ и покупки",
+      "isAi": true,
+      "body": [
+        "Amazon расширила функции Alexa for Shopping, своего ИИ-помощника для покупок.",
+        "Теперь ему можно поручить создавать и редактировать списки покупок и подарков, а также переносить товары между ними.",
+        "Например, ассистент может создать список покупок или показать, что осталось в свадебном реестре."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+          "date": "2026-10-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "reddit-for-you-following",
+      "title": "Reddit позволяет переключаться между лентами For You и Following",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Reddit добавила ленту For You, которая подбирает новые сообщества и обсуждения по интересам пользователя.",
+        "Теперь можно выбирать между For You и Following.",
+        "Персональные рекомендации больше не единственный вариант: пользователи могут переключиться на ленту Following."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/29/reddit-now-lets-you-choose-between-for-you-and-following-feeds/",
+          "date": "2026-10-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "doordash-instacart-deal",
+      "title": "DoorDash договорилась о покупке Instacart за $17 млрд",
+      "topic": "Онлайн-доставка",
+      "isAi": false,
+      "body": [
+        "DoorDash объявила о покупке Instacart в сделке стоимостью около 17 миллиардов долларов.",
+        "Instacart принесёт в объединённый бизнес онлайн-маркетплейс продуктов и партнёрства с розничными сетями.",
+        "За счёт этого DoorDash рассчитывает расширить своё присутствие в доставке продуктов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
+          "date": "2026-10-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "sorry-harvey-legal-ai",
+      "title": "Sorry Harvey предлагает открытую альтернативу юридическому ИИ",
+      "topic": "ИИ и юриспруденция",
+      "isAi": true,
+      "body": [
+        "На Hacker News представили Sorry Harvey — бесплатную альтернативу ИИ-сервису Harvey для юридической работы.",
+        "Создатель описывает проект как продукт с открытым исходным кодом.",
+        "Запуск предлагает открытый вариант на рынке инструментов с юридическим ИИ."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://sorryharvey.com/",
+          "date": "2026-10-29"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "autoshelf-mac-folder-rules",
+      "title": "AutoShelf автоматизирует папки на Mac по правилам «если — то»",
+      "topic": "Инструменты для Mac",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили AutoShelf 2.6 — инструмент для автоматизации папок на Mac.",
+        "В нём можно задавать правила по принципу «если произошло это — выполнить то».",
+        "Так папки могут выполнять настроенные действия в ответ на заданные условия."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/autoshelf",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "pan-arctic-cable-plan",
+      "title": "В Европе планируют подводный кабель до Гренландии",
+      "topic": "Интернет-инфраструктура",
+      "isAi": false,
+      "body": [
+        "Европа планирует проложить первый подводный кабель до Гренландии.",
+        "Проект Pan-Arctic Cable должен обойти США и соединить Канаду, Японию и Южную Корею.",
+        "Пока речь идёт о планируемом маршруте, а не о уже построенной линии связи."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+          "date": "2026-10-28"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
