@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-30",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — планы Waymo в Японии, новое приложение Meta, запуск Axonnic и новости о приватности автомобильных данных.",
+  "materials": [
+    {
+      "id": "waymo-toyota-japan-robotaxis",
+      "title": "Waymo готовит роботакси на базе Toyota bZ4X для Токио",
+      "topic": "Транспорт",
+      "isAi": true,
+      "body": [
+        "Waymo объявила, что запустит сервис роботакси в Токио в 2027 году.",
+        "Для него компания будет использовать электромобили Toyota bZ4X, собранные в Японии.",
+        "Машины будут производить на площадке Toyota под одной крышей."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-style-sketch-fashion-app",
+      "title": "Meta выпустила приложение для виртуальной примерки одежды",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Meta запустила приложение Style Sketch на базе ИИ для виртуальной примерки одежды.",
+        "Пока приложение доступно в Индонезии, Сингапуре и Таиланде.",
+        "Название приложения — Style Sketch."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "gm-smart-driver-data-settlement",
+      "title": "GM выплатит $220 млн из-за передачи данных о вождении",
+      "topic": "Приватность",
+      "isAi": false,
+      "body": [
+        "GM выплатит 220 миллионов долларов.",
+        "Владельцы автомобилей обнаружили, что сведения об их вождении продавались страховым компаниям.",
+        "Речь идёт о данных клиентов программы Smart Driver."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "find-my-apple-tv-remote",
+      "title": "iOS 27.2 добавила поддержку пульта Apple TV в Find My",
+      "topic": "Обновления ПО",
+      "isAi": false,
+      "body": [
+        "В iOS 27.2 появилась новая возможность для приложения Find My.",
+        "Теперь Find My поддерживает пульты Apple TV 4K.",
+        "Обновление также включает нововведения для Photos, Messages и Siri."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "axonnic-muscle-sensing-sleeves",
+      "title": "Axonnic представила рукава с датчиками для обучения роботов",
+      "topic": "Робототехника",
+      "isAi": false,
+      "body": [
+        "Axonnic появилась на Product Hunt с рукавами для тренировки роботов.",
+        "В рукава встроены датчики мышечной активности.",
+        "Таково основное назначение устройства, указанное в описании запуска."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/axonnic",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
