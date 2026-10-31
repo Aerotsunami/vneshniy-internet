@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-31",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — тест орбитальных дата-центров, общий способ запретить ИИ-скрейпинг и новые инструменты для чатов и разработчиков.",
+  "materials": [
+    {
+      "id": "satlyt-orbital-data-center-test",
+      "title": "Satlyt испытала технологию виртуальных дата-центров на спутниках",
+      "topic": "Космос и инфраструктура",
+      "isAi": false,
+      "body": [
+        "Стартап Satlyt провёл успешное испытание, которое приближает его к созданию виртуальных дата-центров на космических аппаратах.",
+        "Первым этапом компания рассматривает спутники.",
+        "Это пока тест технологии, а не сообщение о действующем орбитальном дата-центре."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ai-crawler-policy-token",
+      "title": "Google и другие компании поддержат общий сигнал против ИИ-скрейпинга",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Google, OpenAI, Anthropic и Microsoft пообещали поддержать общий сигнал, который позволит ограничивать сбор материалов для обучения ИИ.",
+        "Он должен работать как новое правило для robots.txt.",
+        "Издателям такой механизм даст единый способ указать предпочтения сразу для нескольких компаний."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+          "date": "2026-10-31"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "whatsapp-group-chat-updates",
+      "title": "WhatsApp добавит четыре функции для управления групповыми чатами",
+      "topic": "Мессенджеры",
+      "isAi": false,
+      "body": [
+        "WhatsApp объявила о четырёх новых функциях для групповых чатов.",
+        "Обновления призваны упростить управление группами и помочь следить за происходящим в них.",
+        "В предоставленном описании подробности каждой функции не перечислены."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "bluesky-moderation-inbox",
+      "title": "В Bluesky появилась отдельная папка для модерации",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Bluesky тестирует специальную папку для модерации.",
+        "Она помогает отслеживать жалобы и предупреждения аккаунта.",
+        "Нововведение пока доступно в бета-версии."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox/",
+          "date": "2026-10-30"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "awaitio-admin-screens",
+      "title": "AwaitIO обещает создавать админ-панели по функциям TypeScript",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили AwaitIO — инструмент для разработчиков.",
+        "Его описание сводится к простому сценарию: написать функцию на TypeScript и получить административный экран.",
+        "Больше подробностей о возможностях продукта в карточке запуска не указано."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/awaitio",
+          "date": "2026-10-31"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ac-bridge-coding-agent-alerts",
+      "title": "AC Bridge связывает умные лампы с сигналами от ИИ-помощников для кода",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "На Product Hunt появился AC Bridge — инструмент для работы с Claude Code и Codex.",
+        "Согласно описанию, умные лампы показывают, когда эти помощники ждут внимания пользователя.",
+        "Так состояние ИИ-агента можно заметить по световому сигналу."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/ac-bridge",
+          "date": "2026-10-31"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
