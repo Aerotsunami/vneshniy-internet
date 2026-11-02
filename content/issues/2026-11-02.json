@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-02",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — ИИ-агенты для тестирования, Affinity на iPad, оптимизация DNS, DIY-дисплей, новые цены Raspberry Pi и атаки на супермаркеты.",
+  "materials": [
+    {
+      "id": "momentic-qa-agents",
+      "title": "Momentic запускает ИИ-агентов для тестирования приложений",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "На Hacker News представили Momentic — QA-агентов, которые исследуют приложение и ищут ошибки в пользовательских сценариях.",
+        "По описанию команды, агенты могут проверять веб-приложения, приложения для iOS и Android; поддержка десктопа пока заявлена на будущее.",
+        "Создатели позиционируют продукт как альтернативу ручной настройке тестов и селекторов в привычных инструментах."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://momentic.ai/",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "affinity-ipad-free",
+      "title": "Affinity выпустила бесплатное приложение для iPad",
+      "topic": "Дизайн",
+      "isAi": false,
+      "body": [
+        "Canva представила Affinity для iPad — приложение для дизайна, иллюстраций и обработки фотографий.",
+        "В нём объединены инструменты для векторной графики и редактирования изображений, ранее доступные в творческом наборе Affinity.",
+        "Для частных пользователей приложение доступно бесплатно."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/02/affinity-for-ipad-all-in-one-design-app-now-available-free-for-individuals/",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "cloudflare-dns-build-performance",
+      "title": "Cloudflare сократила задержку сборки DNS вдвое",
+      "topic": "Инфраструктура",
+      "isAi": false,
+      "body": [
+        "Cloudflare рассказала об улучшении процесса сборки DNS.",
+        "По заявлению в заголовке публикации, задержка сборки уменьшилась вдвое.",
+        "Там же компания сообщает о снижении потребления памяти на 85%."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "diy-epaper-display",
+      "title": "DIY-дисплей на электронных чернилах за $48 работает и с собственным сервером",
+      "topic": "Устройства",
+      "isAi": false,
+      "body": [
+        "Ars Technica рассказала о DIY-дисплее на электронных чернилах стоимостью 48 долларов.",
+        "Устройство совместимо с двумя официальными экосистемами.",
+        "Его также можно подключить к собственному серверу."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "raspberry-pi-5-16gb-price-increase",
+      "title": "Raspberry Pi 5 с 16 ГБ памяти подорожал до $385",
+      "topic": "Компьютеры",
+      "isAi": false,
+      "body": [
+        "Цена Raspberry Pi 5 с 16 ГБ оперативной памяти выросла на 80 долларов и теперь составляет 385 долларов.",
+        "Эта конфигурация поступила в продажу по цене 120 долларов, так что нынешняя стоимость более чем втрое выше стартовой.",
+        "The Verge связывает новые повышения с продолжающимся дефицитом памяти; подорожали и 16-гигабайтные Compute Module 5."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "europe-supermarket-freezer-attacks",
+      "title": "Кибератаки снова вывели из строя холодильники европейских супермаркетов",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Супермаркеты в Европе сообщили о новой волне атак, после которой температура в холодильниках и морозильниках внезапно менялась.",
+        "По сообщениям местных СМИ, затронуты магазины в Бельгии, Швеции, Люксембурге и Эстонии.",
+        "TechCrunch пишет, что это уже вторая подобная волна за месяц; из-за сбоев портятся продукты и нарушаются поставки."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+          "date": "2026-11-02"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
