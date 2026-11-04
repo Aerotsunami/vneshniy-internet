@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-04",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — ускоренный Bluetooth, сеть Starlink Mobile, новые функции Apple Music и изменения в Steam, а также сервисы с ИИ и короткими видео.",
+  "materials": [
+    {
+      "id": "bluetooth-hdt-core-7",
+      "title": "Bluetooth 7.0 сможет передавать данные на скорости до 7,5 Мбит/с",
+      "topic": "Телекоммуникации",
+      "isAi": false,
+      "body": [
+        "Bluetooth SIG утвердила High Data Throughput (HDT) как дополнительную возможность Bluetooth Core 7.0.",
+        "Новая функция повышает максимальную скорость Bluetooth LE с 2 до 7,5 Мбит/с.",
+        "Организация представляла HDT в течение последнего года; теперь технология вошла в спецификацию стандарта."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "starlink-qualcomm-5g",
+      "title": "SpaceX подключит технологии Qualcomm к сети Starlink Mobile",
+      "topic": "Телекоммуникации",
+      "isAi": false,
+      "body": [
+        "SpaceX и Qualcomm заключили многолетнее соглашение для развития мобильной сети Starlink Mobile.",
+        "SpaceX планирует использовать технологию Dragonwing на десятках тысяч площадок 5G в США.",
+        "Первые внедрения намечены на 2027 год."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-music-selfie-sing",
+      "title": "Apple Music добавит видеозапись караоке",
+      "topic": "Музыка",
+      "isAi": false,
+      "body": [
+        "В Apple Music появится функция Selfie Sing для записи себя во время караоке.",
+        "Она войдёт в iOS 27.3.",
+        "Других подробностей о работе функции в сообщении пока нет."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "steam-ai-game-approvals",
+      "title": "Valve меняет правила публикации игр в Steam на фоне очереди заявок",
+      "topic": "Игры",
+      "isAi": false,
+      "body": [
+        "Valve обновляет правила выпуска игр в Steam, чтобы сократить очередь на одобрение.",
+        "Engadget связывает накопление заявок с недавним потоком новых игр, многие из которых созданы с помощью ИИ.",
+        "Изменения затрагивают порядок публикации игр на платформе."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "rungle-running-reels",
+      "title": "Rungle превращает фото и видео с пробежек в ролики Reels",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили Rungle — сервис для подготовки роликов из материалов с пробежек.",
+        "На вход подаются фотографии и видео, а результатом становятся Reels, готовые к публикации.",
+        "Описание запуска сосредоточено на превращении съёмок с пробежки в короткие ролики для распространения."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/rungle",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "macpaw-eney-assistant",
+      "title": "MacPaw представила ИИ-ассистента Eney для Mac и iPhone",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "MacPaw выпустила Eney — ИИ-ассистента для пользователей устройств Apple.",
+        "Он доступен на Mac и iPhone и задуман для интеграции с Mail, Calendar и Reminders.",
+        "MacPaw также известна приложениями CleanMyMac и Setapp."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
+          "date": "2026-11-03"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "sonos-ai-voice-control",
+      "title": "Sonos добавит голосовое управление на естественном языке",
+      "topic": "Умный дом",
+      "isAi": true,
+      "body": [
+        "Обновление Sonos 27voice добавляет голосовое управление с помощью запросов на естественном языке.",
+        "Функция работает через команду «Hey Sonos».",
+        "После проблемного обновления приложения компания выбрала более осторожный подход к запуску новых возможностей."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster/",
+          "date": "2026-11-04"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
