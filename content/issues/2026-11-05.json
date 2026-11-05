@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-05",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — отдельное приложение TikTok Shop, кольцо для управления ИИ-агентами, инструменты для разработчиков, новые функции WhatsApp и Edits, Spotify на борту United и солнечные элементы RadianX.",
+  "materials": [
+    {
+      "id": "tiktok-shop-app-launch",
+      "title": "TikTok Shop запускает отдельное приложение для покупок",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "TikTok выпустила отдельное приложение TikTok Shop, посвящённое покупкам.",
+        "В нём будут персональные рекомендации товаров, покупки через прямые эфиры и короткие видео, а также специальные предложения.",
+        "Заказы можно будет оформить в приложении, отслеживать там же и обращаться в поддержку."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "aina-agent-ring",
+      "title": "Aina показала кольцо для управления ИИ-агентами",
+      "topic": "Устройства",
+      "isAi": true,
+      "body": [
+        "Стартап Aina представил умное кольцо с экраном, джойстиком и микрофоном для общения с ИИ-агентами.",
+        "Одним нажатием кольцо позволяет управлять действиями автономных агентов.",
+        "Устройство также может принимать звонки и помогать диктовать заметки на Mac."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/aina-smart-ring/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "mizu-shared-memory",
+      "title": "Mizu объединяет R и Python через общую память",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили Mizu — инструмент для параллельной работы с R и Python.",
+        "Проект использует общую память и zero-copy обмен данными.",
+        "Исходный код опубликован на GitHub."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/shikokuchuo/pymizu",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "whatsapp-event-links",
+      "title": "В WhatsApp можно будет приглашать на события без аккаунта",
+      "topic": "Мессенджеры",
+      "isAi": false,
+      "body": [
+        "WhatsApp добавляет ссылки-приглашения на события, которыми можно поделиться с людьми вне приложения.",
+        "Получатели смогут открыть сведения о событии и ответить на приглашение, не создавая аккаунт и не устанавливая WhatsApp.",
+        "В обновлении также появится отдельный раздел Events."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "instagram-edits-mac",
+      "title": "Instagram выпустила видеоредактор Edits для Mac",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "Приложение Edits для монтажа видео теперь доступно на компьютерах Mac.",
+        "В нём есть монтаж на нескольких дорожках, инструменты цветокоррекции и экспорт в 4K.",
+        "Готовое видео можно напрямую опубликовать в Instagram."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "spotify-united-seatbacks",
+      "title": "Spotify появится на экранах в самолётах United",
+      "topic": "Музыка",
+      "isAi": false,
+      "body": [
+        "United разработала приложение Spotify для экранов на спинках кресел.",
+        "Пассажиры смогут войти в личный аккаунт и слушать свою музыку, плейлисты и видеоподкасты во время полёта.",
+        "Интеграция использует спутниковый интернет Starlink, который устанавливают на самолётах United."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi",
+          "date": "2026-11-05"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "radianx-perovskite-cells",
+      "title": "RadianX разрабатывает устройства на солнечных элементах, которым не нужна зарядка",
+      "topic": "Энергетика",
+      "isAi": false,
+      "body": [
+        "RadianX заявляет, что её солнечные устройства смогут работать без подзарядки.",
+        "По словам компании, обычные панели пока не дают достаточно энергии для современных портативных устройств.",
+        "Стартап рассчитывает, что перовскитные элементы позволят отказаться от зарядки в некоторых случаях."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+          "date": "2026-11-05"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
