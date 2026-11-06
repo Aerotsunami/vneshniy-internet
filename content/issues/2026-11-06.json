@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-06",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — покупки через Alexa, претензии ЕС к рекомендациям TikTok, обновление Linux Mint и другие новости цифровых сервисов.",
+  "materials": [
+    {
+      "id": "alexa-text-shopping",
+      "title": "Alexa поможет искать товары по сообщениям и фотографиям",
+      "topic": "Онлайн-покупки",
+      "isAi": true,
+      "body": [
+        "Amazon добавляет в Alexa for Shopping возможность искать и покупать товары через переписку с помощником.",
+        "Покупатель сможет описать нужную вещь или прислать её фотографию; Alexa подберёт варианты из каталога Amazon и отправит рекомендации.",
+        "Amazon планирует открыть функцию миллионам пользователей в ближайшие недели."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+          "date": "2026-11-06"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tiktok-eu-recommendations",
+      "title": "ЕС обвиняет TikTok в нарушении правил из-за рекомендаций",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Еврокомиссия заявила, что алгоритм рекомендаций TikTok может нарушать правила для онлайн-платформ.",
+        "Регулятор утверждает, что бесконечная лента может снова и снова показывать материалы о грусти, изоляции и образе тела.",
+        "Это претензии Еврокомиссии к сервису, а не сообщение о принятом решении по делу."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fox-closes-roku-deal",
+      "title": "Fox завершила покупку Roku за 22 миллиарда долларов",
+      "topic": "Стриминг",
+      "isAi": false,
+      "body": [
+        "Fox объявила о завершении сделки по приобретению Roku стоимостью 22 миллиарда долларов.",
+        "Стриминговая платформа Roku охватывает более 100 миллионов домохозяйств в США.",
+        "Fox рассчитывает использовать платформу для распространения спортивных трансляций, новостей и местных телеканалов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "linux-mint-27-wayland",
+      "title": "Linux Mint 27 выйдет до Рождества с обновлениями Wayland",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Linux Mint 27 планируют выпустить до Рождества.",
+        "В релизе ожидаются улучшения поддержки Wayland.",
+        "Пользователи уже пробуют Cinnamon 6.8 — новую версию рабочего стола."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "find-hub-left-behind-alerts",
+      "title": "Google Find Hub теперь предупредит о забытом трекере",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "Google добавила в Find Hub уведомления о том, что пользователь оставил свой трекер.",
+        "Функция называется Notify when left behind и использует оповещения об удалении устройства.",
+        "Обновление касается устройств слежения, работающих с Find Hub."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "letterpress-website-growth",
+      "title": "Letterpress обещает автоматизировать рост сайта одной установкой",
+      "topic": "Сервисы для бизнеса",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили Letterpress-1 — сервис для автоматизации роста сайта.",
+        "В описании проект обещает установку одним скриптом.",
+        "Подробности о том, какие именно задачи автоматизирует сервис, в публикации не указаны."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/letterpress-1",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "crystl-agent-terminal",
+      "title": "crystl — многозадачный терминал для ИИ-агентов программирования",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "На Product Hunt появился crystl — терминал для работы с ИИ-агентами программирования.",
+        "Создатели описывают его как многозадачное приложение для macOS.",
+        "Других функций в кратком описании запуска не перечислено."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+          "date": "2026-11-06"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
