@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-08",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — жестовое управление ИИ-агентами, новая функция для рецептов NYT Cooking, утилита для Mac и необычная браузерная демоверсия Doom.",
+  "materials": [
+    {
+      "id": "agent-clan-gesture-control",
+      "title": "Agent Clan предлагает управлять Claude Code и Codex жестами",
+      "topic": "Инструменты для разработчиков",
+      "isAi": true,
+      "body": [
+        "На Product Hunt появился Agent Clan — инструмент для управления агентами Claude Code и Codex с помощью жестов.",
+        "В описании запуска названы оба продукта и жестовое управление ими.",
+        "Проект предлагает новый способ взаимодействия с этими ИИ-агентами, хотя подробности о жестах в карточке не раскрыты."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/agent-clan",
+          "date": "2026-11-07"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "notchx-macbook-hub",
+      "title": "NotchX превращает вырез MacBook в панель для музыки и звонков",
+      "topic": "Программы для Mac",
+      "isAi": false,
+      "body": [
+        "На Product Hunt представили NotchX — приложение, которое использует вырез MacBook как центр управления музыкой и звонками.",
+        "Оба сценария указаны в описании продукта.",
+        "Идея проекта — объединить эти функции в области выреза ноутбука."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/notch-11",
+          "date": "2026-11-07"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "nyt-cooking-ai-recipe-modifier",
+      "title": "NYT Cooking тестирует ИИ-помощника для изменения рецептов",
+      "topic": "ИИ-сервисы",
+      "isAi": true,
+      "body": [
+        "В приложении NYT Cooking появилась бета-функция на базе ИИ для изменения рецептов.",
+        "Она помогает заменять ингредиенты или корректировать рецепт под запросы читателя.",
+        "WIRED отмечает, что функция в целом справляется с этой задачей."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "date": "2026-11-08"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "doom-ascii-browser-demo",
+      "title": "Браузерная демоверсия Doom показывает игру символами ASCII",
+      "topic": "Игры",
+      "isAi": false,
+      "body": [
+        "The Register рассказывает о проекте Doom, связанном с мэйнфреймом IBM.",
+        "Браузерная демоверсия отображает классический шутер символами ASCII.",
+        "Для запуска демо не нужна авторизация, хотя изображение придётся разглядывать."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+          "date": "2026-11-08"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
