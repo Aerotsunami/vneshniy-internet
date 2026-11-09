@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-09",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — бронирование парковок через Uber, новое приложение для обмена музыкой, модель Meta для ИИ-агентов и клиент баз данных DBDelve.",
+  "materials": [
+    {
+      "id": "uber-parking-reservations",
+      "title": "Uber добавил бронирование парковок в приложение",
+      "topic": "Транспортные сервисы",
+      "isAi": false,
+      "body": [
+        "Uber запустила Uber Parking — встроенную функцию для поиска и бронирования парковочных мест.",
+        "Водители могут заранее найти место в гараже или на парковке, забронировать его и оплатить через приложение.",
+        "Функция использует сеть SpotHero, приобретённой Uber: это более 13 тысяч площадок в свыше 400 городах."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+          "date": "2026-11-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "drops-music-sharing",
+      "title": "Drops превращает знакомство с музыкой в обмен короткими фрагментами",
+      "topic": "Музыкальные приложения",
+      "isAi": false,
+      "body": [
+        "Вышло новое приложение Drops для поиска музыки и обмена находками с друзьями.",
+        "Пользователи листают фрагменты песен продолжительностью от 10 до 30 секунд.",
+        "Отрывки можно комментировать и отправлять друзьям."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+          "date": "2026-11-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-muse-ember",
+      "title": "Meta представила недорогую модель Muse Ember для ИИ-агентов",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Meta выпустила Muse Ember — компактную модель для выполнения задач ИИ-агентами.",
+        "По данным TechCrunch, обработка миллиона входных токенов стоит 10 центов.",
+        "Издание отмечает, что это заметно дешевле моделей Haiku и Luna."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "date": "2026-11-09"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "dbdelve-database-client",
+      "title": "DBDelve показал результаты сравнения с DBeaver",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили DBDelve 0.3.6 — клиент баз данных с открытым кодом, написанный на Rust и GPUI.",
+        "Автор сравнил его с DBeaver 25.3.1 на одной таблице PostgreSQL; тест проводился на M1 Pro с 32 ГБ памяти, по медиане пяти запусков.",
+        "В этом сравнении запуск DBDelve занял 1,1 секунды против 5,2 у DBeaver, а запрос на тысячу строк — 0,21 секунды против 1,96."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50427934",
+          "date": "2026-11-09"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
