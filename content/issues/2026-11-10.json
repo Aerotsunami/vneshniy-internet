@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-10",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые чипы Google, обзоры товаров на Reddit, компактная фоторамка Aura, функции Screens, интеграция Garmin с Waze и ОС Kora.",
+  "materials": [
+    {
+      "id": "google-tpu-chips",
+      "title": "Google расширила линейку специализированных TPU",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Google представила два новых специализированных тензорных процессора TPU.",
+        "По данным TechCrunch, новые TPU расширяют круг сценариев: среди них — конфиденциальное обучение моделей и работа с большим объёмом памяти.",
+        "Так Google дополняет портфель чипов для новых вариантов использования."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "reddit-product-reviews",
+      "title": "Reddit запустила ИИ-обзоры товаров на основе обсуждений",
+      "topic": "Онлайн-сервисы",
+      "isAi": true,
+      "body": [
+        "Reddit запускает встроенный раздел с обзорами потребительских товаров.",
+        "Новая функция обобщает, что пользователям нравится и не нравится примерно в 10 тысячах товаров.",
+        "Сводки призваны помочь покупателям изучать варианты перед покупкой."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "aura-ink-frame",
+      "title": "Aura выпустила компактную цветную фоторамку с экраном E Ink",
+      "topic": "Потребительская электроника",
+      "isAi": false,
+      "body": [
+        "Новая фоторамка Aura Ink получила 10-дюймовый цветной экран E Ink.",
+        "По сравнению с прежней 13-дюймовой моделью она меньше; дисплей показывает больше цветов с более высокой плотностью пикселей.",
+        "Рамка выполнена в чёрном цвете, а изображение задумано так, чтобы сочетаться с печатными фотографиями."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "screens-remote-audio-resize",
+      "title": "Screens добавила звук с удалённого Mac и автоматическое изменение размера",
+      "topic": "Программы для Apple",
+      "isAi": false,
+      "body": [
+        "Версия 5.10 приложения Screens получила две функции для удалённого рабочего стола.",
+        "Теперь можно передавать звук с удалённого Mac и автоматически подгонять размер рабочего стола.",
+        "Для изменения размера используется технология Apple High Performance Screen Sharing."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/10/screens-5-10-adds-two-highly-requested-remote-desktop-features/",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "garmin-waze-cycling",
+      "title": "Велосипедисты Garmin смогут делиться местоположением через Waze",
+      "topic": "Навигационные сервисы",
+      "isAi": false,
+      "body": [
+        "Garmin добавила возможность делиться местоположением велосипедиста через Waze.",
+        "Интеграция работает с дополнительной функцией LiveTrack от Garmin.",
+        "Совместное использование геопозиции предназначено для повышения безопасности поездок."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2311124/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "kora-linux-desktop",
+      "title": "Сооснователь Cyanogen готовит бесплатную альтернативу Windows",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Проект Kora готовится выйти как бесплатная альтернатива Windows.",
+        "Система на базе Linux рассчитана на пользователей, которые активно используют модели и агенты ИИ.",
+        "Её разрабатывает сооснователь Cyanogen, ранее известный попыткой бросить вызов Android."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+          "date": "2026-11-10"
+        },
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+          "date": "2026-11-10"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
