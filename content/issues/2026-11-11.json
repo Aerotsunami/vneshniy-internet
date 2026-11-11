@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-11",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — ThingStudio для микроконтроллеров, сессии ИИ-агентов на разных компьютерах и новые функции для роботов, штор, Safari и инструментов разработчика.",
+  "materials": [
+    {
+      "id": "thingstudio-micropython-editor",
+      "title": "ThingStudio программирует микроконтроллеры в стиле Node-RED",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили ThingStudio — визуальную среду программирования микроконтроллеров в стиле Node-RED.",
+        "В редакторе собирают программу из блоков, а ThingStudio генерирует MicroPython и загружает его на плату.",
+        "Проект работает локально и распространяется по лицензии Apache 2.0. После загрузки программе не нужен редактор для работы."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://thingstudio.net/",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "atuin-agent-threads",
+      "title": "Atuin Threads собирает сессии ИИ-агентов на разных компьютерах",
+      "topic": "ИИ-инструменты",
+      "isAi": true,
+      "body": [
+        "Atuin представила Threads — инструмент для доступа к сессиям ИИ-агентов на разных компьютерах.",
+        "Заявленная идея — держать все такие сессии под рукой независимо от используемой машины.",
+        "Анонс описывает Threads как способ объединить агентские сессии между устройствами."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://blog.atuin.sh/threads-agent-sessions/",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "switchbot-curtain-track-4",
+      "title": "SwitchBot упростила зарядку мотора для умных штор",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "SwitchBot выпустила Curtain Track 4 — новую систему для автоматизации штор.",
+        "Её аккумуляторный модуль отсоединяется отдельно: чтобы зарядить его, не нужно снимать с карниза весь мотор.",
+        "Такое решение призвано сделать регулярную подзарядку удобнее."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "serve-robotics-developer-portal",
+      "title": "Serve Robotics открыла парк роботов-доставщиков разработчикам",
+      "topic": "Робототехника",
+      "isAi": false,
+      "body": [
+        "Serve Robotics запускает портал AV Delivery Developer Portal для доступа к своей платформе автономной доставки.",
+        "Сторонние разработчики и независимые компании смогут подключаться к флоту из 2 000 роботов-доставщиков.",
+        "В числе возможных пользователей платформы компания называет и автономных ИИ-агентов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "google-xse-query-engine",
+      "title": "Google открыла код системы XSE, обрабатывающей миллионы запросов",
+      "topic": "Инфраструктура",
+      "isAi": false,
+      "body": [
+        "Google открыла исходный код XSE — системы, связанной с повышением производительности Python-нагрузок.",
+        "По данным The Register, XSE обрабатывает шесть миллионов запросов в секунду.",
+        "Среди использующих её сервисов издание называет Google Search, Ads и YouTube Shorts."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "safari-global-privacy-control",
+      "title": "В бета-версии iOS появилась настройка против cookie-попапов",
+      "topic": "Конфиденциальность",
+      "isAi": false,
+      "body": [
+        "В бета-версии iOS 27.3 в Safari появилась настройка Global Privacy Control.",
+        "По данным 9to5Mac, она может со временем помочь положить конец всплывающим запросам о согласии на cookie.",
+        "Функция пока тестируется, так что избавление от таких окон — возможная перспектива, а не уже состоявшееся изменение."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually/",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "godbolt-neovim-window",
+      "title": "Neovim получил плавающее окно для просмотра ассемблера",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили AssemblyForNeovim — плавающее окно в Neovim для генерации ассемблерного кода.",
+        "Инструмент использует локально установленный компилятор и работает без интернета.",
+        "В описании проекта указаны языки C, C++ и Rust."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+          "date": "2026-11-11"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
