@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-12",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — соцсеть Whoop, пауза испытаний нейроимпланта Synchron, первый умный дисплей Apple и обновления сервисов, устройств и квантовых чипов.",
+  "materials": [
+    {
+      "id": "whoop-social-network",
+      "title": "Whoop запустила соцсеть для обмена данными о здоровье",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Whoop запустила социальную сеть, где участники могут делиться показателями сна, восстановления и тренировок.",
+        "Компания связывает запуск с более широким планом развивать бренд персонального здоровья.",
+        "Глава Whoop Уилл Ахмед также намекнул на возможные приобретения."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "synchron-implant-trials",
+      "title": "Synchron приостановила испытания нейроимпланта",
+      "topic": "Медицинские технологии",
+      "isAi": false,
+      "body": [
+        "Стартап Synchron остановил клинические испытания после того, как его последнее устройство не показало ожидаемой работы.",
+        "Компания сообщила, что собирается обновить аппаратную часть импланта.",
+        "Параллельно Synchron работает над новым устройством."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-homeview-launch",
+      "title": "Apple выпустила свой первый умный дисплей HomeView",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "HomeView — первый умный дисплей Apple: устройство оснащено экраном диагональю 7 дюймов и Siri AI.",
+        "Обзор The Verge отмечает управление умным домом, использование на кухне без помощи рук, а также функции колонки и цифровой фоторамки.",
+        "Apple представила для устройства новую программную среду."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/12/apple-homeview-review-an-adorable-smart-display-that-earns-its-place/",
+          "date": "2026-11-12"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "peacock-vertical-video",
+      "title": "Peacock обновляет приложение, добавляя больше вертикального видео",
+      "topic": "Стриминговые сервисы",
+      "isAi": false,
+      "body": [
+        "NBCUniversal объявила о крупном обновлении приложения Peacock для iPhone.",
+        "В нём компания делает больший акцент на вертикальном видео.",
+        "По данным 9to5Mac, NBCUniversal рассчитывает, что изменение добавит в среднем час использования приложения на пользователя в месяц."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/12/peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month/",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fairphone-boost-mobile",
+      "title": "Fairphone нашла первого американского оператора-партнёра",
+      "topic": "Мобильная связь",
+      "isAi": false,
+      "body": [
+        "Fairphone договорилась о партнёрстве с американским оператором Boost Mobile.",
+        "Это первый оператор в США, с которым компания будет продавать тарифы вместе со своим смартфоном.",
+        "В публикации Wired устройство описано как полностью ремонтопригодное."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "gentler-streak-6",
+      "title": "Gentler Streak добавила ленту самочувствия и настраиваемую панель",
+      "topic": "Здоровье и фитнес",
+      "isAi": false,
+      "body": [
+        "В Gentler Streak 6.0 появилась новая временная шкала для отслеживания самочувствия.",
+        "Обновление также позволяет настраивать панель приложения.",
+        "Приложение сможет подстраивать рекомендации с учётом того, как пользователь себя чувствует."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/12/gentler-streak-6-0-adds-a-new-wellbeing-timeline-and-customizable-dashboard/",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ibm-nighthawk-r3",
+      "title": "IBM планирует превысить 1000 кубитов в квантовом процессоре",
+      "topic": "Квантовые вычисления",
+      "isAi": false,
+      "body": [
+        "IBM планирует в 2027 году масштабировать линейку квантовых процессоров Nighthawk за отметку в 1000 кубитов.",
+        "В планах фигурирует Nighthawk r3 — новый процессор с большим числом кубитов.",
+        "IBM намерена использовать его как часть будущей отказоустойчивой системы; речь пока идёт о планах."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357",
+          "date": "2026-11-12"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
