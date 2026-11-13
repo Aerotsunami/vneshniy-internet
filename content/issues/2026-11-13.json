@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-13",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — кошелёк для ИИ-агентов, глобальный сбой Microsoft, новое приложение ElevenLabs и инструменты для XMPP, восстановления данных и умного дома.",
+  "materials": [
+    {
+      "id": "microsoft-m365-outage",
+      "title": "Сбой Microsoft затронул почту и облачные сервисы",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Сбой Microsoft начался с Outlook и Teams, а затем затронул значительную часть облачных сервисов компании.",
+        "Сбой затронул государственные учреждения, больницы и суды.",
+        "Microsoft сообщила о постепенном восстановлении. Компания связала сбой с неудачными проверками состояния серверов, а не с хакерской атакой."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+          "date": "2026-11-13"
+        },
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "openai-chatgpt-wallet",
+      "title": "OpenAI запустила кошелёк для покупок ИИ-агентами",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "ChatGPT Wallet — новый кошелёк OpenAI для покупок, которые совершают агенты «dots».",
+        "Для запуска OpenAI сотрудничает с American Express, MasterCard и Visa.",
+        "Компания представляет сервис как способ обеспечить безопасные платежи от имени агентов."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-home-cameras",
+      "title": "Apple начала принимать заказы на камеры и видеодомофон",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "В коллекции Apple Home появились первые три аксессуара: видеодомофон и две камеры для умного дома.",
+        "Все три устройства уже доступны для заказа.",
+        "Это новые устройства для домашней линейки Apple."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order/",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "elevenlabs-elevenai-app",
+      "title": "ElevenLabs объединила заметки встреч и диктовку в одном приложении",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "ElevenLabs представила ElevenAI — приложение для команд и компаний.",
+        "В нём объединены создание заметок по встречам и диктовка.",
+        "Новый продукт ориентирован на командное и корпоративное использование."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "lonewolf-xmpp-v03",
+      "title": "Lonewolf выпустил версию 0.3 самостоятельного XMPP-сервера",
+      "topic": "Открытое программное обеспечение",
+      "isAi": false,
+      "body": [
+        "Проект Lonewolf выпустил версию 0.3 своего XMPP-сервера.",
+        "Сервер написан на Rust и предназначен для самостоятельного использования.",
+        "Релиз проекта появился на Hacker News."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "reflota-data-recovery",
+      "title": "Reflota предлагает восстановление данных с дисков NTFS и FAT",
+      "topic": "Инструменты для разработчиков",
+      "isAi": false,
+      "body": [
+        "На Hacker News представили Reflota — проект с открытым исходным кодом для восстановления данных.",
+        "Инструмент рассчитан на диски с файловыми системами NTFS и FAT.",
+        "В описании проекта упоминается поэтапное копирование данных."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/Christ10-8/reflota",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "hubble-lifetime-proposals",
+      "title": "NASA ищет способы продлить работу телескопа «Хаббл»",
+      "topic": "Космос",
+      "isAi": false,
+      "body": [
+        "NASA запросило у коммерческих космических компаний предложения о том, как продлить срок службы «Хаббла».",
+        "На телескопе уже есть несколько неисправностей.",
+        "По оценке, «Хаббл» может войти в атмосферу Земли к 2034 году."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "cpp26-contracts-dispute",
+      "title": "Спор о контрактах осложнил подготовку C++26",
+      "topic": "Языки программирования",
+      "isAi": false,
+      "body": [
+        "Рабочая группа ISO столкнулась с разногласиями по контрактам в C++26.",
+        "Спор касается проверок во время выполнения и сложности механизма.",
+        "Спор затрагивает график выпуска стандарта."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+          "date": "2026-11-13"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
