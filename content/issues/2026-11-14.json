@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-14",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новая функция One UI, заказы на Cybercab, запуск SteamOS на Mac и обновления в проектах Starship и llama.cpp.",
+  "materials": [
+    {
+      "id": "samsung-one-ui-memory",
+      "title": "Samsung готовит для One UI функцию поиска по информации на телефоне",
+      "topic": "Мобильные технологии",
+      "isAi": false,
+      "body": [
+        "В One UI 9.5 может появиться функция, которая объединит разрозненную информацию с телефона.",
+        "Engadget сравнивает её с Pixel Screenshots от Google.",
+        "Пока речь идёт о возможном нововведении, а не о выпущенной функции."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tesla-cybercab-personal-orders",
+      "title": "Tesla начала приглашать клиентов купить Cybercab",
+      "topic": "Электромобили",
+      "isAi": false,
+      "body": [
+        "Tesla начала принимать заказы на Cybercab для личного использования.",
+        "Компания рассылает приглашения отдельным клиентам.",
+        "Таким образом, предложение пока адресовано выбранным покупателям."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2316848/tesla-starts-taking-cybercab-orders-for-personal-use/",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "steamos-on-mac",
+      "title": "Бесплатное приложение запускает SteamOS на Mac",
+      "topic": "Игры",
+      "isAi": false,
+      "body": [
+        "Бесплатное приложение позволяет запускать SteamOS в виртуальной машине на Mac с Apple Silicon.",
+        "Так можно получить доступ к компьютерным и старым играм, которые иначе не запустились бы на Mac.",
+        "Об этом приложении рассказывает Wired."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "starship-flight-15-orbit",
+      "title": "Starship во время 15-го полёта вышел на орбиту",
+      "topic": "Космос",
+      "isAi": false,
+      "body": [
+        "Starship достиг орбиты во время своего 15-го полёта.",
+        "По данным Ars Technica, следующий этап может состояться в субботу.",
+        "Компания рассчитывает получить дополнительные данные; возможная попытка поймать аппарат пока не подтверждена."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "glm-53-vllm-dgx",
+      "title": "Nvidia описала запуск GLM-5.3 на двух DGX со скоростью 607,8 токена в секунду",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "В статье Nvidia описан запуск модели GLM-5.3 с помощью vLLM на двух системах DGX.",
+        "В заголовке публикации указана скорость 607,8 токена в секунду.",
+        "Материал представлен в Hacker News со ссылкой на блог Nvidia."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "llama-cpp-v1-macos",
+      "title": "llama.cpp выпустил версию 1.0 и приложение для macOS",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Проект llama.cpp достиг версии 1.0.",
+        "Вместе с релизом представлено нативное приложение для macOS.",
+        "Анонс версии опубликован на Hugging Face."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
