@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-15",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — первая поимка Starship башней Mechazilla, причина остановки авиарейсов в США и почтовое приложение GotEmail.",
+  "materials": [
+    {
+      "id": "starship-catch-first",
+      "title": "SpaceX впервые поймала Starship башней Mechazilla",
+      "topic": "Космос",
+      "isAi": false,
+      "body": [
+        "SpaceX впервые успешно поймала аппарат Starship с помощью башни Mechazilla.",
+        "Попытку поймать ускоритель сначала отменили, но сам Starship удалось захватить.",
+        "Ранее компания уже проводила такие захваты ускорителей; теперь манёвр впервые удался с самим Starship."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "faa-ground-stop-copper-fiber",
+      "title": "Замена кабеля стала причиной остановки авиарейсов в США",
+      "topic": "Транспорт",
+      "isAi": false,
+      "body": [
+        "Министр транспорта США связал пятничную общенациональную остановку авиарейсов с работами в удалённом объекте FAA.",
+        "Там заменяли устаревший медный кабель на оптоволоконную линию.",
+        "Министр назвал работы плановым обслуживанием, а не масштабной модернизацией."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "gotemail-mac-iphone",
+      "title": "GotEmail представила почтовое приложение для Mac и iPhone",
+      "topic": "Приложения",
+      "isAi": false,
+      "body": [
+        "На Product Hunt появился GotEmail — почтовое приложение для Mac и iPhone.",
+        "Создатели описывают его как быстрое, нативное и умное.",
+        "В карточке запуска отдельно указаны версии для Mac и iPhone."
+      ],
+      "sources": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/gotemail",
+          "date": "2026-11-14"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
