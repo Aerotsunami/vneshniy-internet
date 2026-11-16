@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-16",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — инструменты для ИИ-агентов и задач, планирование маршрутов в Google Maps, видео-подкасты Apple и новые функции Instagram.",
+  "materials": [
+    {
+      "id": "coral-agent-tool-gateway",
+      "title": "Coral предлагает шлюз для инструментов ИИ-агентов",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "На Hacker News представили Coral — открытый шлюз, который можно разместить на собственном сервере между ИИ-агентами и системами, с которыми они работают.",
+        "Агенты могут создавать собственные инструменты, записывая короткие программы на TypeScript.",
+        "Созданные инструменты можно сохранять и повторно использовать, а также публиковать для команды; авторы говорят, что так проще точнее ограничивать доступ."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/withcoral/coral",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "opentodo-local-first",
+      "title": "OpenTodo — менеджер задач с открытым кодом в одном файле",
+      "topic": "Приложения",
+      "isAi": false,
+      "body": [
+        "На Hacker News появился OpenTodo — менеджер задач с открытым исходным кодом.",
+        "Проект описан как self-hosted и local-first: его можно разместить самостоятельно, а данные и работа приложения ориентированы на локальное использование.",
+        "Программа поставляется одним бинарным файлом, написанным на Go."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://github.com/OpenTodoApp/OpenTodo",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "google-maps-trip-itineraries",
+      "title": "Google Maps составляет планы поездок с актуальными данными",
+      "topic": "Карты и навигация",
+      "isAi": true,
+      "body": [
+        "Google добавила в Maps функцию планирования маршрутов через Ask Maps — чат-бота на базе Gemini.",
+        "Сервис может составить план поездки и показать актуальную информацию о каждой остановке.",
+        "Функция подходит как для маршрута на один день, так и для поездки на несколько дней."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+          "date": "2026-11-16"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "instagram-amazon-affiliate-posts",
+      "title": "Instagram разрешила добавлять партнёрские ссылки Amazon в публикации",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Авторы Instagram теперь могут прикреплять партнёрские ссылки Amazon к публикациям и Reels.",
+        "В одном Reel можно разместить до 30 таких ссылок.",
+        "Интеграция упрощает авторам заработок на рекомендациях товаров."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-tv-video-podcasts",
+      "title": "В Apple TV появятся бесплатные видеоподкасты",
+      "topic": "Стриминг",
+      "isAi": false,
+      "body": [
+        "Apple добавляет в Apple TV отдельный раздел видеоподкастов.",
+        "Смотреть их можно будет бесплатно, без подписки на Apple TV.",
+        "Тестирование начинается сегодня; видеоподкасты также появятся в приложении Apple TV на других устройствах, включая смарт-телевизоры."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "french-postal-data-breach",
+      "title": "При атаке на французскую почтовую компанию похитили данные 22 млн человек",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Кибератака затронула дочернюю компанию французского почтового оператора.",
+        "Злоумышленники получили контактные данные 22 млн человек.",
+        "Французский орган по защите данных расследует вторжение, о котором сообщила сама почтовая служба."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070",
+          "date": "2026-11-16"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
