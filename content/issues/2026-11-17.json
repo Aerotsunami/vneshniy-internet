@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-17",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — доставка дронами в Техасе, редактор VSCO для Mac, новые приложения и обновления цифровых сервисов.",
+  "materials": [
+    {
+      "id": "daydream-ai-stylist-agent",
+      "title": "Daydream запустила ИИ-стилиста, который помогает с покупками",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Daydream представила ИИ-агента, который помогает подбирать одежду и совершать покупки.",
+        "Сервис может запоминать предпочтения, виртуально примерять вещи и составлять образы с учётом гардероба.",
+        "Агент также отслеживает скидки и может оформить покупку."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "vsco-studio-pro-desktop",
+      "title": "VSCO выпустила фоторедактор Studio Pro для Mac",
+      "topic": "Приложения",
+      "isAi": false,
+      "body": [
+        "Studio Pro Desktop — первый нативный фоторедактор VSCO для Mac.",
+        "Он поддерживает RAW и пакетную обработку снимков; в приложении также есть более 200 пресетов.",
+        "При этом некоторые профессиональные инструменты пока отсутствуют."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "uber-zipline-texas-drones",
+      "title": "Uber и Zipline начали доставлять заказы дронами в Техасе",
+      "topic": "Транспорт",
+      "isAi": false,
+      "body": [
+        "Сервис доставки дронами Uber и Zipline начал работу в Техасе.",
+        "Компании планируют запустить его ещё в десятках городов.",
+        "Uber рассчитывает выйти на миллион доставок дронами в день к 2029 году."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2318495/uber-eats-starts-drone-deliveries-in-texas/",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-direct-messaging-app",
+      "title": "Meta представила отдельное приложение для сообщений Instagram",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Meta запустила Direct — отдельное приложение для обмена сообщениями, связанное с Instagram.",
+        "На первом этапе приложение появилось в Турции и Таиланде.",
+        "Пользоваться им можно как с аккаунтом Instagram, так и без него."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "flipper-one-preorders",
+      "title": "Flipper One открыли для предзаказа на Kickstarter",
+      "topic": "Устройства",
+      "isAi": false,
+      "body": [
+        "Flipper Devices запустила на Kickstarter сбор предзаказов на Flipper One.",
+        "Компания описывает устройство как открытый Linux-мультитул для высокопроизводительных вычислений и работы с IP-сетями.",
+        "Цена предзаказа составляет 399 долларов, а начало поставок ожидается в июле 2027 года."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "gemini-training-history-controls",
+      "title": "В Gemini разделили настройки истории чатов и обучения ИИ",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "В настройках активности Gemini Google разделила управление историей чатов и использованием данных для обучения ИИ.",
+        "Для этих параметров теперь предусмотрены отдельные переключатели.",
+        "Так можно отключить использование данных для обучения, не теряя историю разговоров."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-services-outage-old-bug",
+      "title": "Старый баг вызвал масштабный сбой сервисов Microsoft",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Microsoft сообщила, что причиной масштабного сбоя стала старая ошибка.",
+        "Из-за инцидента Teams, Outlook и другие сервисы компании не работали почти сутки.",
+        "The Verge отмечает, что пользователи, компании и государственные учреждения почти 24 часа не могли получить доступ к почте Outlook."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2318906/microsoft-reveals-that-an-old-bug-caused-the-massive-outage-that-took-its-services-offline/",
+          "date": "2026-11-17"
+        },
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+          "date": "2026-11-17"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
