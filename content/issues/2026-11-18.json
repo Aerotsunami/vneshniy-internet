@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-18",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — умный клапан для дома, шифрованный мессенджер на Android, компактная ИИ-модель речи, остановка роботакиси Waymo на платных дорогах и другие операционные изменения.",
+  "materials": [
+    {
+      "id": "shelly-neo-water-valve",
+      "title": "Shelly представила умный клапан для перекрытия воды",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Shelly анонсировала Shelly Neo Smart Water Valve — устройство для установки на главный водопровод дома.",
+        "Клапан автоматически перекрывает поток воды, если датчик утечки обнаруживает проблему.",
+        "С новой моделью связано уже выпускавшееся Shelly: датчик утечки за 28 долларов, который может работать от батареи около двух лет."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "germ-dm-android-launch",
+      "title": "Germ DM стала доступна на Android",
+      "topic": "Приложения",
+      "isAi": false,
+      "body": [
+        "Зашифрованная платформа обмена сообщениями Germ DM вышла на Android.",
+        "Для идентификации собеседника сервис использует «burner cards» вместо номера телефона или имени пользователя.",
+        "Так пользователь может разделять переписки по отдельным идентификаторам."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tiny-voca-cpu-model",
+      "title": "Tiny Voca синтезирует речь на CPU в реальном времени",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "На Hugging Face опубликована Tiny Voca — модель синтеза речи с 4,5 миллиона параметров.",
+        "Модель может работать на процессоре со скоростью в 70 раз быстрее реального времени.",
+        "По данным публикации, обучение модели обошлось всего в 10 долларов."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://huggingface.co/n4ze3m/tiny-voca",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "waymo-freeway-pause",
+      "title": "Waymo временно остановила роботакиси на платных дорогах",
+      "topic": "Транспорт",
+      "isAi": false,
+      "body": [
+        "Waymo приостановила движение своих роботакиси по платным дорогам после жалобы в Калифорнии.",
+        "Поводом стал вопрос о поездках в зонах дорожных работ.",
+        "Ранее, в мае, роботакиси Waymo уже отзывали после того, как они въехали в такие зоны."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "nginx-http2-pre-auth-rce",
+      "title": "Уязвимость HTTP/2 в NGINX позволяла атаковать до аутентификации",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Исследователи Wiz сообщили об уязвимостях NGINX в обработке HTTP/2.",
+        "Атака могла привести к удалённому выполнению кода до прохождения аутентификации.",
+        "Статья также рассматривает класс конкретных ошибок в сетевой обработке вместо общей теории уязвимостей."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "molten-industries-oakland-factory",
+      "title": "Molten Industries открывает завод графита в Окленде",
+      "topic": "Энергетика",
+      "isAi": false,
+      "body": [
+        "Стартап Molten Industries планирует использовать новую фабрику в Окленде для производства графита.",
+        "Проект нацелен на снижение доминирования китайских компаний в этой отрасли.",
+        "По данным публикации, сейчас китайские компании контролируют подавляющую долю мирового производства графита."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "moonlock-iphone-scam-detection",
+      "title": "MacPaw перенесла Moonlock для поиска мошенничества на iPhone",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "MacPaw выпустила приложение Moonlock для iPhone.",
+        "До этого сервис был доступен на Mac: приложение вышло на этой платформе годом ранее.",
+        "На iPhone Moonlock ориентирован на обнаружение потенциальных мошеннических схем."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
+          "date": "2026-11-18"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
