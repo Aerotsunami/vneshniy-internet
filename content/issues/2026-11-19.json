@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-19",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — выход Anthropic на Nasdaq, мгновенная диктовка в ChatGPT, завершение Microsoft To Do и новые киберинциденты крупных компаний.",
+  "materials": [
+    {
+      "id": "anthropic-nasdaq-debut",
+      "title": "Anthropic вышла на биржу Nasdaq",
+      "topic": "Стартапы",
+      "isAi": true,
+      "body": [
+        "Компания Anthropic начала торги на Nasdaq под тикером ANT.",
+        "Акции открылись по 111,50 доллара за штуку против начальной цены в 83 доллара.",
+        "По данным сделки и последующей оценки, рыночная стоимость компании достигла около 1,5 триллиона долларов.",
+        "Anthropic впервые объявила о намерении провести размещение почти за месяц до начала торгов."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "chatgpt-live-dictation",
+      "title": "ChatGPT научился Live Dictation",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "OpenAI запустила в ChatGPT Live Dictation — режим диктовки с расшифровкой речи во время разговора.",
+        "Теперь приложение не ждёт окончания записи, а транскрибирует аудиоподсказку по мере поступления звука.",
+        "Функция доступна на веб-сайте, в настольном приложении и мобильных приложениях ChatGPT.",
+        "Новая возможность уже доступна пользователям всех тарифных планов на всех основных платформах."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-todo-retirement",
+      "title": "Microsoft прекращает развитие Microsoft To Do",
+      "topic": "Приложения",
+      "isAi": false,
+      "body": [
+        "Microsoft закрывает сервис управления задачами To Do вместе с приложениями для macOS и iOS.",
+        "Приложения будут сняты с поддержки в июне 2027 года.",
+        "Задачи не будут автоматически переноситься в новый сервис.",
+        "Для личных аккаунтов Microsoft не предлагает замену в виде Planner."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "nimble-item-trackers",
+      "title": "Nimble вышла на рынок трекеров вещей",
+      "topic": "Устройства",
+      "isAi": false,
+      "body": [
+        "Стартап Nimble представил линейку трекеров для кошельков, брелоков, чемоданов и обложек паспортов.",
+        "Продукты рассчитаны на рынок маячков, где конкурируют Apple и Google.",
+        "Nimble называет свои устройства экологичными и предлагает несколько форм-факторов для разных вещей."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "equinor-cyberattack",
+      "title": "Equinor борется с кибератакой",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Норвежская энергетическая компания Equinor сообщила о кибератаке.",
+        "По заявлениям компании, добыча нефти и газа не пострадала.",
+        "Источник не уточняет сроки полного восстановления систем после инцидента."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "jpmorgan-vendor-breach",
+      "title": "JPMorgan сообщил о утечке через подрядчиков",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "JPMorgan Chase сообщила о кибератаке на сторонних поставщиков маркетинговых данных.",
+        "Злоумышленникам стали доступны имена клиентов и адреса электронной почты.",
+        "Cybernews сообщала о утечке данных около 16 тысяч клиентов банка.",
+        "Банк отдельно заявил, что инцидент не связан с недавним сбойом банковских систем."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+          "date": "2026-11-19"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
