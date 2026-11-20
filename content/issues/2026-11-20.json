@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-20",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — крупная сделка с Mailchimp, расширение ключей в Apple Wallet, утечка транскрипций, обновления мессенджеров и операционных систем.",
+  "materials": [
+    {
+      "id": "bending-spoons-mailchimp-acquisition",
+      "title": "Bending Spoons покупает Mailchimp",
+      "topic": "Стартапы",
+      "isAi": false,
+      "body": [
+        "Bending Spoons объявила о покупке Mailchimp у Intuit.",
+        "Сумма сделки составляет 3,68 миллиарда долларов.",
+        "Intuit приобрела Mailchimp в 2021 году примерно за 12 миллиардов долларов.",
+        "Сделка переводит один из крупных сервисов email-маркетинга под управление другого крупного производителя программного обеспечения."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-wallet-gm-car-keys",
+      "title": "Apple Wallet расширяет поддержку ключей автомобилей",
+      "topic": "Мобильные сервисы",
+      "isAi": false,
+      "body": [
+        "Apple готовится расширить поддержку цифровых ключей автомобилей в Wallet.",
+        "GM запускает их для большего числа автомобилей брендов Cadillac, Chevrolet и GMC.",
+        "Обновление позволяет использовать уже существующий сервис Apple для всё большего числа моделей."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "transcription-firm-data-exposure",
+      "title": "Расшифровки клиентов оказались открыты в облаке",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Транскрибационная компания, которой пользуются полиция, прокуроры и крупные технологические компании, допустила утечку данных.",
+        "На облачном сервере без пароля оказались расшифровки полицейских опросов и записей с нагрудных камер.",
+        "Инцидент был вызван простой ошибкой настройки доступа."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "signal-blocks-ai-screen-access",
+      "title": "Signal блокирует ИИ-системы от чтения чатов",
+      "topic": "Конфиденциальность",
+      "isAi": false,
+      "body": [
+        "Signal обновил защиту снимков экрана на Android и iOS.",
+        "Новый режим мешает Gemini, Siri и другим ИИ-агентам анализировать сообщения и данные на экране.",
+        "По словам компании, подобные возможности операционных систем могут подрывать независимые гарантии приватности Signal.",
+        "Изменение затрагивает то, как приложение обрабатывает системные снимки экрана."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+          "date": "2026-11-20"
+        },
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "gemini-mac-automated-task-actions",
+      "title": "Gemini для Mac научилась выполнять повторяющиеся задачи",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Google расширила возможности приложения Gemini для macOS.",
+        "Теперь ИИ может помогать размещать товары на eBay, ускорять творческие задачи и заполнять формы.",
+        "Обновление ориентировано на работу с действиями на компьютере через Gemini.",
+        "Возможности описаны как помощь с повторяющимися задачами пользователя."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "whatsapp-1500-group-members",
+      "title": "В групповых чатах WhatsApp стало больше участников",
+      "topic": "Мессенджеры",
+      "isAi": false,
+      "body": [
+        "WhatsApp увеличил лимит участников в групповых чатах.",
+        "Теперь в одной группе может находиться до 1 500 человек.",
+        "Изменение расширяет возможности сервиса для крупных сообществ."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "windows-11-passkey-error",
+      "title": "Windows 11 ошибочно сообщала об отказе в использовании passkey",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "В Windows 11 обнаружилась ошибка, из-за которой приложение могло сообщить о сбое passkey после успешного входа.",
+        "На один и тот же процесс входа система могла ошибочно выдавать противоречивый результат.",
+        "Для исправления проблемы Microsoft выпустила необязательное обновление.",
+        "Исправление предназначено для версий Windows 11 25H2 и 26H2."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ubuntu-core-desktop-plan",
+      "title": "Ubuntu Core Desktop планируют выпустить в 28.04",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Canonical наметила выпуск Ubuntu Core Desktop вместе с Ubuntu 28.04.",
+        "Проект представляет собой неизменяемую настольную систему.",
+        "Canonical рассматривает возможность сделать её стандартной системой к версии 30.04.",
+        "При этом традиционный вариант Ubuntu не планируется снимать с поддержки."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
+          "date": "2026-11-20"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
