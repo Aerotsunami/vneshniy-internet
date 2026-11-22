@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-22",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — скидка на Nintendo Switch 2, защищённый браузер для Windows, пассивная радиолокация и новые меры банков против ИИ-агентов.",
+  "materials": [
+    {
+      "id": "nintendo-switch-2-black-friday-discount",
+      "title": "Nintendo снизила цену Switch 2 на 50 долларов",
+      "topic": "Игровые консоли",
+      "isAi": false,
+      "body": [
+        "Nintendo временно снизила цену на Switch 2 в рамках осенних распродаж.",
+        "Скидка составляет 50 долларов и действует с 22 ноября до 5 декабря.",
+        "Акция охватывает один из двух комплектов консоли.",
+        "Ограничение по времени даёт покупателям больше времени принять решение до завершения периода киберпонедельника."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+          "date": "2026-11-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "blackberry-access-windows-browser",
+      "title": "BlackBerry выпустила защищённый браузер для Windows",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "BlackBerry представила Secure Browser для Windows.",
+        "Продукт получил название BlackBerry Access.",
+        "Анонс опубликован в официальном блоге компании.",
+        "Новинка стала отдельным предложением для защищённого доступа из среды Windows."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows",
+          "date": "2026-11-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ghost-radar-passive-detection",
+      "title": "Пассивный радар обнаруживает угрозы без излучения",
+      "topic": "Безопасность",
+      "isAi": false,
+      "body": [
+        "Разработана пассивная система радиолокации для обнаружения угроз в воздухе.",
+        "Она использует для работы уже существующие телевизионные и мобильные сигналы.",
+        "За счёт пассивного принципа устройство не раскрывает собственное положение.",
+        "По описанию системы, оборудование можно разместить в внедорожнике."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+          "date": "2026-11-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "banks-restrict-third-party-ai-agents",
+      "title": "Банки ограничивают вход ИИ-агентов в аккаунты",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Крупные финансовые учреждения США начали блокировать сторонних ИИ-ботов.",
+        "Третьим сторонам запрещают использовать ботов для входа в банковские аккаунты.",
+        "Банки предупреждают, что пользователь сам несёт ответственность за ошибки и убытки подобных ботов.",
+        "Новая политика касается именно автоматизированного доступа к счётам."
+      ],
+      "sources": [
+        {
+          "label": "Wired",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "date": "2026-11-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "together-ai-prompt-leakage",
+      "title": "Together.ai сообщила о утечке промтов",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Together.ai опубликовала сообщение о утечке промтов для запросов.",
+        "Инцидент связан с запросами за июнь и июль 2026 года.",
+        "Новость появилась в ленте Hacker News 22 ноября.",
+        "Сообщение пока описывает сам факт утечки и не раскрывает дополнительных технических подробностей."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "date": "2026-11-22"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-nyc-shipping-labels",
+      "title": "Amazon лоббирует спорный закон через этикетки посылок",
+      "topic": "Платформы",
+      "isAi": false,
+      "body": [
+        "Amazon продолжает оспаривать законопроект совета Нью-Йорка о защите доставки.",
+        "На почтовых этикетках компания утверждает, что закон может добавить до пяти долларов к каждому заказу.",
+        "Delivery Protection Act должен ограничить действующую схему привлечения сторонних исполнителей.",
+        "Компания использует маркировку посылок как ещё одну площадку для публичной аргументации."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "date": "2026-11-21"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
