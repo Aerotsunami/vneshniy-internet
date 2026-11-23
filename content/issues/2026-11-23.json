@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-23",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — ИИ в поиске и наушниках, крупная сделка в кибербезопасности, запись поездок Uber и обновления для iPhone.",
+  "materials": [
+    {
+      "id": "nothing-ear-note-ai-transcription",
+      "title": "Nothing анонсировала Ear Note с ИИ-транскрипцией",
+      "topic": "Устройства",
+      "isAi": true,
+      "body": [
+        "Nothing представила Ear Note — пару наушников с возможностями записи и расшифровки разговоров.",
+        "В комплекте есть зарядный чехол с микрофоном.",
+        "Через приложение запись можно расшифровать и получить ИИ-сводку.",
+        "Генеральный директор Nothing Карл Пей уже продемонстрировал устройство."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "google-ai-mode-drive-wallet",
+      "title": "ИИ-поиск Google подключился к Drive и Wallet",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Google расширил персонализацию AI Mode в Поиске.",
+        "Теперь функция использует данные из Drive и Wallet через сервис Personal Intelligence.",
+        "Связка охватывает также приложение Gemini.",
+        "Google рассчитывает давать более персональные ответы на основе имеющихся в экосистеме данных."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "crowdstrike-acquires-zscaler",
+      "title": "CrowdStrike покупает Zscaler за 44 миллиарда долларов",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "CrowdStrike объявила о покупке Zscaler.",
+        "Сумма сделки составляет 44 миллиарда долларов.",
+        "Zscaler предлагает крупным компаниям продукты для модели zero-trust.",
+        "CrowdStrike заявила, что объединение улучшит возможности клиентов в работе с ИИ-агентами."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "uber-recorded-rides",
+      "title": "Uber запускает поездки с записью по умолчанию",
+      "topic": "Мобильные сервисы",
+      "isAi": false,
+      "body": [
+        "Uber начал предлагать опцию Recorded Rides.",
+        "Водитель может включить запись всей поездки фронтальной камерой телефона.",
+        "Сначала функция запускается в Балтиморе, Роли, Индианаполисе и Сент-Луисе.",
+        "Пассажиры могут запросить водителя с включённой записью через приложение."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+          "date": "2026-11-23"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "cisco-rce-under-active-exploitation",
+      "title": "Критическую уязвимость Cisco уже используют в атаках",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "CISA и организация F6 сообщили об атаках с использованием критической уязвимости Cisco.",
+        "Речь идёт о возможности удалённого выполнения кода.",
+        "Исправленная угроза стала актуальной после публикации доказательства концепции эксплойта.",
+        "Администраторам систем Cisco следует учитывать активное распространение атаки."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "apple-product-red-products",
+      "title": "Apple готовит красные AirPods Max и HomePod mini",
+      "topic": "Потребительские устройства",
+      "isAi": false,
+      "body": [
+        "Apple планирует выпустить новые версии двух устройств в цветовой серии Product(RED).",
+        "Речь идёт об AirPods Max и HomePod mini 2.",
+        "По сообщению, выпуск назначен ориентировочно на 1 декабря.",
+        "Эта дата совпадает с Всемирным днём борьбы со СПИДом."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/23/apple-releasing-productred-homepod-mini-and-airpods-max-per-report/",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "ios-27-gymkit-iphone-airpods",
+      "title": "iOS 27 переносит GymKit с часов на iPhone",
+      "topic": "Мобильные сервисы",
+      "isAi": false,
+      "body": [
+        "iOS 27 расширяет функции GymKit за пределами Apple Watch.",
+        "Для работы теперь можно использовать iPhone и AirPods.",
+        "При касании совместимого тренажёра iPhone и AirPods могут сочетать его данные с показаниями устройства.",
+        "Функция охватывает расстояние, наклон, темп, пульс и сожжённые калории."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/23/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+          "date": "2026-11-23"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
