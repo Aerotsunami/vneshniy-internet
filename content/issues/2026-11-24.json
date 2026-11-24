@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-24",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — обновление Firefox, запуск ИИ-помощника Muse в Instagram, тестирование роботакси и новые решения для баз данных.",
+  "materials": [
+    {
+      "id": "firefox-161-vpn-rules",
+      "title": "Firefox 161 добавила точные правила для VPN",
+      "topic": "Браузеры",
+      "isAi": false,
+      "body": [
+        "Mozilla выпустила Firefox 161 с настройкой VPN для отдельных сайтов.",
+        "Через панель VPN можно включить режим «всегда включён» или «всегда выключен» для выбранных страниц.",
+        "Обновление также добавляет функцию очистки истории браузера одним нажатием."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-drone-faa-garage-crash",
+      "title": "Дрон Amazon задел кабель и разбился о гараж",
+      "topic": "Транспорт",
+      "isAi": false,
+      "body": [
+        "Беспилотник Amazon Prime Air врезался в гараж после того, как задел кабель.",
+        "Инцидент произошёл после доставки посылки с шампунем и привёл к проверке со стороны FAA.",
+        "Amazon сообщает о сотнях тысяч доставок, выполненных Prime Air в 2026 году."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tidal-ban-ai-music",
+      "title": "Tidal запретит полностью сгенерированную ИИ-музыку",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Tidal объявила о полном запрете музыки, целиком созданной ИИ.",
+        "Начиная с 9 декабря сервис удалит примерно 29 миллионов таких треков.",
+        "В этот же день будут отклоняться новые полностью сгенерированные композиции.",
+        "Tidal продолжит принимать песни, созданные с помощью ИИ, но без полного ИИ-порождающего процесса."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "date": "2026-11-24"
+        },
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "meta-muse-instagram-dms",
+      "title": "ИИ-помощник Muse появился прямо в Instagram",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "Meta встроила ИИ-ассистента Muse в личные сообщения Instagram.",
+        "Пользователям больше не нужно переключаться между Instagram и отдельным приложением Muse.",
+        "В Instagram сервис предлагает помогать разбирать сохранённый контент.",
+        "Агент получает доступ к материалам прямо в интерфейсе социальной сети."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "date": "2026-11-24"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "uber-nuro-lucid-robotaxis",
+      "title": "Uber, Lucid и Nuro тестируют беспилотные роботакси",
+      "topic": "Роботакси",
+      "isAi": false,
+      "body": [
+        "Uber и Nuro начали тестирование беспилотных автомобилей на базе Lucid Gravity.",
+        "Испытания проходят на общественных улицах района Сан-Франциско.",
+        "Цель проекта — подготовиться к запуску транспортной службы в 2027 году.",
+        "Машины Lucid оснащены программной платформой Nuro для совершения поездок без водителя."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+          "date": "2026-11-24"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2326365/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco/",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "mason-postgres-read-replica",
+      "title": "Mason запускает колончатую реплику PostgreSQL",
+      "topic": "Инструменты разработки",
+      "isAi": false,
+      "body": [
+        "Проект Mason представил реплику PostgreSQL для ускорения аналитических запросов.",
+        "Система использует вычислительный движок DuckDB и колончатое хранение.",
+        "Разработчики позиционируют её как открытый вариант, который можно подключить вместо обычной реплики.",
+        "Проект сохраняет совместимость с синтаксисом PostgreSQL для упрощённого внедрения."
+      ],
+      "sources": [
+        {
+          "label": "Hacker News",
+          "url": "https://masondata.ai/",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-horizondb-fabric",
+      "title": "Microsoft добавила HorizonDB в Fabric",
+      "topic": "Базы данных",
+      "isAi": false,
+      "body": [
+        "Microsoft представила preview-сервис HorizonDB для работы с серверным PostgreSQL внутри Fabric.",
+        "Новая база предназначена для связывания транзакционных операций и аналитики.",
+        "Предложение входит в продукт Microsoft, который объединяет данные и вычисления.",
+        "Запуск соответствует схожим шагам конкурентов в области серверных баз данных."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/databases/2026/11/24/microsoft-brings-serverless-postgresql-into-fabric-to-bridge-transactions-and-analytics/5311841",
+          "date": "2026-11-24"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
