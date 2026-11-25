@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-25",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — независимый браузер Ladybird, камера Tapo с сенсорным экраном, расширение Amazon Autos и крупные изменения в облачном резервном копировании.",
+  "materials": [
+    {
+      "id": "ladybird-first-downloadable-alpha",
+      "title": "Ladybird выпустил первый загружаемый альфа-браузер",
+      "topic": "Браузеры",
+      "isAi": false,
+      "body": [
+        "Команда Ladybird выпустила для Linux и macOS первую загружаемую альфа-версию собственного браузерного движка.",
+        "Проект позиционируется как независимая альтернатива Chromium.",
+        "Первая публичная сборка оказалась достаточно работоспособной для первых испытаний.",
+        "Выпуск переносит Ladybird из внутренней разработки в доступный для широкой аудитории этап."
+      ],
+      "sources": [
+        {
+          "label": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "tapo-c825-touch-camera",
+      "title": "Tapo представила C825 с экраном для видеозвонков",
+      "topic": "Умный дом",
+      "isAi": false,
+      "body": [
+        "Tapo представила новую внутреннюю камеру безопасности C825.",
+        "Модель получила 2K-сенсор с поворотом и наклоном.",
+        "Экран диагональю 4 дюйма позволяет использовать устройство для видеозвонков.",
+        "Камера предназначена как для наблюдения за домом, так и для связи с семьёй."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "amazon-autos-expands-uk",
+      "title": "Amazon Autos выходит на рынок Великобритании",
+      "topic": "Автомобили",
+      "isAi": false,
+      "body": [
+        "Amazon Autos начнёт продажу автомобилей в Великобритании в начале 2027 года.",
+        "Это будет первым выходом сервиса за пределы США.",
+        "В британском запуске участвует Hyundai.",
+        "Покупатели всё равно должны будут посетить шоурум, чтобы завершить оформление."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/",
+          "date": "2026-11-25"
+        },
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "fincen-breach-offline",
+      "title": "FinCEN отключила системы после несанкционированного доступа",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Финансовое подразделение казначейства США FinCEN стало жертвой последней в ряду федеральных утечек.",
+        "Организация перевела свои системы в офлайн и начала расследование несанкционированного доступа.",
+        "FinCEN продлила сроки подачи обязательной отчётности.",
+        "Подробности расследования и объём затронутых данных пока не раскрыты."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "todoist-confirmed-data-breach",
+      "title": "Todoist подтвердил утечку данных 6% клиентов",
+      "topic": "Сервисы",
+      "isAi": false,
+      "body": [
+        "Todoist сообщил, что хакер получил доступ к производственным системам.",
+        "У злоумышленника оказались адреса электронной почты, хеши паролей и даты создания аккаунтов.",
+        "Сервис оценил долю затронутых клиентов в 6%."
+      ],
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-365-backup-ten-years",
+      "title": "Microsoft 365 Backup увеличил окно восстановления до десяти лет",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Microsoft увеличила срок восстановления данных в сервисе Microsoft 365 Backup.",
+        "Теперь копии могут охватывать окно в десять лет.",
+        "Новое ограничение формально не позволяет путешествовать во времени к 2016 году."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "spacex-starmind-fcc-approval",
+      "title": "FCC разрешила проекту Starmind до миллиона спутников",
+      "topic": "Искусственный интеллект",
+      "isAi": true,
+      "body": [
+        "FCC разрешила SpaceX развёртывание до миллиона спутников с ИИ-чипами.",
+        "Инициатива компании носит название StarMind.",
+        "Спутники должны стать частью проекта космических центров обработки данных.",
+        "Разрешение SpaceX стало первым одобрением подобной идеи федеральным агентством США."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "date": "2026-11-25"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
