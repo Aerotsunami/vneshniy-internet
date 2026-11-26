@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-26",
+  "label": "Свежий выпуск",
+  "summary": "В выпуске — новые требования Google к разработчикам Android, контроль X над аккаунтами подростков, закрытие облачного сервиса Rackspace и несколько крупных инцидентов с данными.",
+  "materials": [
+    {
+      "id": "android-public-developer-address-eu",
+      "title": "Google требует публиковать адреса разработчиков Android",
+      "topic": "Мобильные платформы",
+      "isAi": false,
+      "body": [
+        "Google меняет правила публикации данных независимых разработчиков приложений для Android.",
+        "Начиная со следующего года многие разработчики должны будут раскрыть номер телефона и адрес.",
+        "Изменение связано с требованиями европейского Закона о цифровых услугах.",
+        "Google планирует публиковать контактные данные разработчиков по всему миру."
+      ],
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "x-teen-parental-controls",
+      "title": "X запускает первые родительские ограничения",
+      "topic": "Социальные сети",
+      "isAi": false,
+      "body": [
+        "Социальная сеть X получила первые родительские настройки для подростковых аккаунтов.",
+        "Новые возможности дают родителям контроль над шестью аспектами использования приложения.",
+        "Подросток должен дать согласие на передачу родителю или опекуну таких полномочий.",
+        "Раньше X и предшествующий ему Twitter не предлагали полноценных родительских контролей."
+      ],
+      "sources": [
+        {
+          "label": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/",
+          "date": "2026-11-26"
+        },
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "rackspace-spot-service-shutdown",
+      "title": "Rackspace закрывает Spot после киберинцидента",
+      "topic": "Облачные сервисы",
+      "isAi": false,
+      "body": [
+        "Rackspace объявила о закрытии облачного сервиса Spot после инцидента в сфере безопасности.",
+        "Клиентам придётся срочно переносить рабочие нагрузки.",
+        "Компании также рекомендовалось изменить скомпрометированные учётные данные.",
+        "Окончательная миграция становится операционной задачей именно для существующих пользователей Spot."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "1password-source-code-customer-data",
+      "title": "Злоумышленник получил исходный код 1Password",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "1Password сообщила о вторжении в внутренние сервисы.",
+        "Злоумышленник получил исходный код и сведения о клиентах.",
+        "Вредоносный код был внедрён в фоновые сервисы компании.",
+        "По утверждению 1Password, пароли пользователей в инциденте не пострадали."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "flight-centre-travel-data-breach",
+      "title": "Утечка затронула записи клиентов Flight Centre",
+      "topic": "Кибербезопасность",
+      "isAi": false,
+      "body": [
+        "Flight Centre Travel Group сообщила о крупном цифровом инциденте.",
+        "Злоумышленники получили доступ к значительной части записей клиентов.",
+        "Атака стала очередной среди подобных инцидентов в системах бронирования.",
+        "Подобные инциденты затрагивают системы бронирования по всему миру."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "microsoft-hotpatch-crash-hotpatch",
+      "title": "Microsoft исправила горячий патч, который ломал Windows Server",
+      "topic": "Операционные системы",
+      "isAi": false,
+      "body": [
+        "Microsoft выпустила исправление для ранее установленного механизма hotpatch.",
+        "Ошибка могла привести к сбоям Windows Server 2025 из-за истечения IPv6-маршрутов.",
+        "Обновление устраняет проблему без обязательной перезагрузки сервера.",
+        "Исправление не меняет общий статус затронутой серверной системы."
+      ],
+      "sources": [
+        {
+          "label": "The Register",
+          "url": "https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    },
+    {
+      "id": "screens-laptop-mode-iphone-duo",
+      "title": "Screens превратит iPhone Duo в мини-ноутбук",
+      "topic": "Мобильные приложения",
+      "isAi": false,
+      "body": [
+        "Edovia обновила приложение Screens для удалённого рабочего стола.",
+        "Новый режим Laptop Mode рассчитан на складной iPhone Duo.",
+        "Функция превращает экраны устройства в интерфейс наподобие небольшого MacBook.",
+        "Обновление связывает возможности iPhone Duo с удалённым доступом к компьютеру."
+      ],
+      "sources": [
+        {
+          "label": "Engadget",
+          "url": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
+          "date": "2026-11-26"
+        }
+      ],
+      "check": []
+    }
+  ]
+}
